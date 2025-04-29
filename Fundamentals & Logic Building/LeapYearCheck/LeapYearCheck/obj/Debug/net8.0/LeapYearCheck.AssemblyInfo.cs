@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeapYearCheck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ab77ade683fff2c59fd4f802460526f3f663393")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c914c973b636274a45561eccf438aef3814f63b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeapYearCheck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeapYearCheck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
