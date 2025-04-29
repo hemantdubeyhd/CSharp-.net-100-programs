@@ -27,12 +27,13 @@ int GetValidNumber(string statement)
 
 void CheckEvenOrOdd(int num)
 {
-    if (num % 2 == 0)
-    {
-        Console.WriteLine("User has enterd an even number");
-    }
-    else
-    {
-        Console.WriteLine("User has entered a odd number");
-    }
+    Console.WriteLine($"You enterd {num}, which is an {(num % 2 ==0 ? "Even" : "Odd")} number");
+    //if (num % 2 == 0)
+    //{
+    //    Console.WriteLine("User has enterd an even number");
+    //}
+    //else
+    //{
+    //    Console.WriteLine("User has entered a odd number");
+    //}
 }
