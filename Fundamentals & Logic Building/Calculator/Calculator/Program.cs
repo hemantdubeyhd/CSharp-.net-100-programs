@@ -41,13 +41,12 @@ while (choice != 0)
     {
         case 1:
             Console.WriteLine($"{num1 + num2}");
-            Console.Read();
+            Console.ReadLine();
             break;
 
         case 2:
             Console.WriteLine($"{num1 - num2}");
-            Console.Read();
-
+            Console.ReadLine();
             break;
 
         case 3:
