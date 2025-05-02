@@ -18,7 +18,7 @@ namespace TableOfANumber
             }
             for (int i = 1; i <= 10; i++)
             {
-                Console.WriteLine($"{number} * {i} = {number * i}");
+                Console.WriteLine($"{number,3} * {i,2} = {number * i, 3}");
             }
             Console.ReadLine();
 

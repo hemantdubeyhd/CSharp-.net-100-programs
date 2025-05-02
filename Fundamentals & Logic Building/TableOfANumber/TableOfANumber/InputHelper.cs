@@ -11,7 +11,6 @@ namespace TableOfANumber
         
         public static int  GetAValidNumber(string input) 
         {
-            Console.WriteLine(input);
             while (true) 
             { 
                 input = Console.ReadLine();
@@ -21,7 +20,7 @@ namespace TableOfANumber
                 }
                 else
                 {
-                    Console.Write("Please enter a valid number");
+                    Console.WriteLine("Please enter a valid number");
                 }
                
             }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TableOfANumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bd0552cabfce61f03a7730bf2897bc886acf1bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567dfbd57d0a0bdc7f67b6d1498e20011626f4d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TableOfANumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TableOfANumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
