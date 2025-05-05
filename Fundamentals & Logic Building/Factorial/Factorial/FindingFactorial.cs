@@ -8,9 +8,10 @@ namespace Factorial
 {
     internal static class FindingFactorial
     {
-        static long  result = 1;
+       
         public static void FindTheFactorial(int input)
         {
+             long result = 1;
             if (input == 0 || input == 1)
             {
                 Console.WriteLine($"Factorial of {input} is {result}");
@@ -25,6 +26,7 @@ namespace Factorial
                 }
                 Console.WriteLine($"Factorial of {input} is {result}");
             }
+            Console.ReadLine();
         }
 
       

@@ -21,7 +21,7 @@ namespace Factorial
                 {
                     if (number > 20 || number < 0)
                     {
-                        Console.WriteLine("Please Eneter a positive interger equal or smaller than 20");
+                        Console.WriteLine("\"Please enter a positive integer between 0 and 20.");
                        continue;
                     }
 
@@ -30,7 +30,7 @@ namespace Factorial
                 
                 else
                 {
-                    Console.WriteLine("Please Eneter a positive interger equal or smaller than 20");
+                    Console.WriteLine("\"Please enter a positive integer between 0 and 20.");
                 }
 
             }
