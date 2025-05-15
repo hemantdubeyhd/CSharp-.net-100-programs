@@ -12,7 +12,7 @@ namespace ArmstrongNum
         {
             if (numberToCheck >= 0 && numberToCheck <= 9)
             {
-                Console.WriteLine($"{numberToCheck} is a Palindrome");
+                Console.WriteLine($"{numberToCheck} is a Armstrong");
             }
 
             int numberOfdigits =0;
