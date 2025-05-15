@@ -23,21 +23,29 @@ namespace ArmstrongNum
                 tempNumberToCheck /= 10;
                 numberOfdigits++;
             }
+
+
             int numberToCompare = 0;
-            int deviser = 10;
             int currentDigit;
             int result;
             //  Console.WriteLine($"No of Digits = {numberOfdigits}");
-            int loopIndex = numberOfdigits;
-            while (numberToCheck > 0)
+            int temp = numberToCheck;
+            while (temp > 0)
             {
-                currentDigit = numberToCheck % 10;
-                numberToCheck = numberToCheck / 10;
+                currentDigit = temp % 10;
+                temp = temp/ 10;
                 result = FindPowerOf.CalculteThePowerOf(currentDigit, numberOfdigits);
 
                 numberToCompare += result;
             }
-            Console.WriteLine($" total is = {numberToCompare}");
+            if (numberToCompare == numberToCheck)
+            {
+                Console.WriteLine($"{numberToCheck} is an Armstrong number");
+            }
+            else
+            {
+                Console.WriteLine($"{numberToCheck} is NOT an Armstrong number");
+            }
         }
 
     }

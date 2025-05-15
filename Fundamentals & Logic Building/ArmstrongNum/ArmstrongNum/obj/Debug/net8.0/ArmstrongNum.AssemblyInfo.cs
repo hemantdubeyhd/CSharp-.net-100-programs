@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArmstrongNum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d23392793606069721f7e6b8fa9fa8a6281df86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82d4a02951fa4075b0412285df7afeb568b28a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArmstrongNum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArmstrongNum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
