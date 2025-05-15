@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArmstrongNum
 {
-    internal static class CheckIfPalindrome
+    internal static class CheckIfArmstrong
     {
         public static void CheckingIfNumberIsArmstrong(int numberToCheck)
         {

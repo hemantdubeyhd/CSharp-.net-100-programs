@@ -3,4 +3,4 @@ using ArmstrongNum;
 
 int numToCheck = InputHelper.CheckTheValidityOfEnteredNumber("Please enter a positive numebr");
 //Console.WriteLine(numToCheck);
-CheckIfPalindrome.CheckingIfNumberIsArmstrong(numToCheck);
+CheckIfArmstrong.CheckingIfNumberIsArmstrong(numToCheck);
