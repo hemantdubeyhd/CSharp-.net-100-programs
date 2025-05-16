@@ -11,9 +11,11 @@ namespace CountTheVovels
         public static void countinTheVovels(string str)
         {
             int numberOfVovels = 0;
+           
             foreach (char c in str)
             {
-                if(char.ToLower(c) == 'a' || char.ToLower(c) == 'e' || char.ToLower(c) == 'i' || char.ToLower(c) == 'o' || char.ToLower(c) == 'u')
+                char ch = char.ToLower(c);
+                if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
                 {
                     numberOfVovels++;
                 }
