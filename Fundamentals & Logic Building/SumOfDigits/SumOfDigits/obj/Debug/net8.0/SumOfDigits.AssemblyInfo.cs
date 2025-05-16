@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumOfDigits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a524a5cad63431d0a89675f55f3593605f2d86aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a3646c60a811989ef3646edbd5dbde59f93aef8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumOfDigits")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumOfDigits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
