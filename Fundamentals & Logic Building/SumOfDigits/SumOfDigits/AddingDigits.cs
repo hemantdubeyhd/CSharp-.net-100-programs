@@ -20,8 +20,8 @@ namespace SumOfDigits
             {
                 while (tempNumber > 0)
                 {
-                    sumOfTheDigits = sumOfTheDigits + (tempNumber % 10);
-                    tempNumber = tempNumber / 10;
+                    sumOfTheDigits +=  (tempNumber % 10);
+                    tempNumber /= 10;
                 }
             }
             Console.WriteLine($"Sum of the digits of numebr {number} is {sumOfTheDigits }");
