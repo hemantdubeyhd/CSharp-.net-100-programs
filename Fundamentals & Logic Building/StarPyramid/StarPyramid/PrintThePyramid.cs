@@ -14,7 +14,7 @@ namespace StarPyramid
            
             for (int i = 0; i < noOfStorisToPrint; i++)
             {
-                for(int j = 0; j < noOfStorisToPrint - i - 1; j++)
+                for(int j = 0; j < noOfStorisToPrint - i; j++)
                 {
                     Console.Write(" ");
                 }

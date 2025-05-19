@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarPyramid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd5e5f052e8238898e124424c9795899272750a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44345880d8d857f60b9ac547103d0534a8e3e8fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarPyramid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarPyramid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
