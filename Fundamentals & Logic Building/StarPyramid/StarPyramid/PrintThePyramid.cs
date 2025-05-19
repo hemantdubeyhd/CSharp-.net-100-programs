@@ -11,23 +11,19 @@ namespace StarPyramid
       
         public static void printingThePyramid(int noOfStorisToPrint)
         {
-            int numberOfStars = 1;
-            int numberOfSpaceInTheLine = noOfStorisToPrint;
-            int k = 0;
+           
             for (int i = 0; i < noOfStorisToPrint; i++)
             {
-                for(int j = 0; j < numberOfSpaceInTheLine; j++)
+                for(int j = 0; j < noOfStorisToPrint - i - 1; j++)
                 {
                     Console.Write(" ");
                 }
-                for (; k <= i; k++)
+                for (int k = 0; k <= i; k++)
                 {
                     Console.Write(" H");
                 }
-                Console.WriteLine("\n");
+                Console.WriteLine();
 
-                numberOfSpaceInTheLine--;
-                k = 0;
             }
         }
     }
