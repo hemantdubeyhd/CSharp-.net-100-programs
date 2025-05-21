@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\calculatorFunc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\calculatorfunc\\calculatorfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|solutionrelative:calculatorfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\calculatorfunc\\calculatorfunc\\additionoftwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|solutionrelative:calculatorfunc\\additionoftwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\calculatorfunc\\calculatorfunc\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|solutionrelative:calculatorfunc\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\calculatorfunc\\calculatorfunc\\additionoftwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|solutionrelative:calculatorfunc\\additionoftwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\calculatorfunc\\calculatorfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D96967-AA39-4113-B36D-343F3FCFC5AC}|calculatorFunc\\calculatorFunc.csproj|solutionrelative:calculatorfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 698,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,13 +74,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AdditionOfTwoNumbers.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\calculatorFunc\\calculatorFunc\\AdditionOfTwoNumbers.cs",
               "RelativeDocumentMoniker": "calculatorFunc\\AdditionOfTwoNumbers.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\calculatorFunc\\calculatorFunc\\AdditionOfTwoNumbers.cs",
               "RelativeToolTip": "calculatorFunc\\AdditionOfTwoNumbers.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T02:51:26.894Z",
               "EditorCaption": ""
@@ -93,20 +93,20 @@
               "RelativeDocumentMoniker": "calculatorFunc\\InputHelper.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\calculatorFunc\\calculatorFunc\\InputHelper.cs",
               "RelativeToolTip": "calculatorFunc\\InputHelper.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAALAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T02:14:58.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\calculatorFunc\\calculatorFunc\\Program.cs",
               "RelativeDocumentMoniker": "calculatorFunc\\Program.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\calculatorFunc\\calculatorFunc\\Program.cs",
               "RelativeToolTip": "calculatorFunc\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBAAAAAxAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T02:09:46.598Z",
               "EditorCaption": ""
