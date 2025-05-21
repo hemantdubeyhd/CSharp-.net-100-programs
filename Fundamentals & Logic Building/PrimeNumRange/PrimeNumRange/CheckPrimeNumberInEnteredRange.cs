@@ -10,26 +10,34 @@ namespace PrimeNumRange
     {
         public static void checkingIfNumberIsPrime(int lowerIndex, int upperIndex)
         {
-            bool isPrime = true;
             for (int numberToCheck = lowerIndex; numberToCheck <=upperIndex; numberToCheck++)
             {
 
-                for (int divisor = 2; divisor <= Math.Sqrt(numberToCheck); divisor++)
-                {
-                    if ((numberToCheck % divisor) == 0)
-                    {
-                        isPrime = false;
-                        Console.WriteLine($"{numberToCheck} Number is not a prime numebr");
-                       continue;
-                    }
-
-                }
-                if (isPrime)
+                if(isPrime(numberToCheck))
                 {
                     Console.WriteLine($"{numberToCheck} Number is a prime numebr");
                 }
-                isPrime = true ;
+                else
+                {
+                    Console.WriteLine($"{numberToCheck} Number is not a prime numebr");
+                }
+               
             }
+
         }
+        private static bool isPrime(int numberToCheck)
+        {
+            for (int divisor = 2; divisor <= Math.Sqrt(numberToCheck); divisor++)
+            {
+                if ((numberToCheck % divisor) == 0)
+                {
+                    return false;
+                }
+
+            }
+            return true;
+        }
+
+
     }
 }

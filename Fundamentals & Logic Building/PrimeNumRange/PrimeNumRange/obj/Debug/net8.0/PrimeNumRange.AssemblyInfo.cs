@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeNumRange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f5513b66f19eea29d6107cd138a07489f0a14c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4687e26afda4714d10a6a42280fc20b4187b5176")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeNumRange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeNumRange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
