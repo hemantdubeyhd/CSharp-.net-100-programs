@@ -3,3 +3,4 @@ using ReversePyramid;
 int input = InputHelper.validateTheInput("Please enetr a number");
 
 Console.WriteLine(input);
+PrintReversedPyramid.printingTheReversedPyramid(input);

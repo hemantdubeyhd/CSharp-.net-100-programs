@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReversePyramid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88e66e52f41cac2f091dd28acbddf5199be8e84d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a10b8da2c82463217116015a36760097d01aa7ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReversePyramid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReversePyramid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
