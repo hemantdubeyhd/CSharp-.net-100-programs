@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace calculatorFunc
+namespace CalculatorFunc
 {
     internal static class InputHelper
     {
@@ -18,8 +18,10 @@ namespace calculatorFunc
                 {
                     return input;
                 }
-                else { 
-                Console.WriteLine("Please enter a valid number")}
+                else 
+                {
+                    Console.WriteLine("Please enter a valid number");
+                }
             }
         }
     }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\calculatorFunc.csproj": {}
+    "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\CalculatorFunc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\calculatorFunc.csproj": {
+    "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\CalculatorFunc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\calculatorFunc.csproj",
-        "projectName": "calculatorFunc",
-        "projectPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\calculatorFunc.csproj",
+        "projectUniqueName": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\CalculatorFunc.csproj",
+        "projectName": "CalculatorFunc",
+        "projectPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\CalculatorFunc.csproj",
         "packagesPath": "C:\\Users\\hemant.dubey\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\calculatorFunc\\calculatorFunc\\obj\\",
         "projectStyle": "PackageReference",
