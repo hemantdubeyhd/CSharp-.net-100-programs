@@ -14,6 +14,7 @@ while(choice.ToLower() != "q")
     Console.WriteLine("Press - for Subtraction");
     Console.WriteLine("Press * for multiplication");
     Console.WriteLine("Press / for division");
+    Console.WriteLine("Press 'q' to quit the menu");
 
     choice = Console.ReadLine();
 
