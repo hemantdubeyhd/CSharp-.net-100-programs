@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumber\\",
+  "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumRange\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7617255B-AEBD-4331-A8E8-E4F7ED4D1809}|PrimeNumber\\PrimeNumber.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\primenumber\\primenumber\\checkifprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7617255B-AEBD-4331-A8E8-E4F7ED4D1809}|PrimeNumber\\PrimeNumber.csproj|solutionrelative:primenumber\\checkifprimenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FED6F4F4-3324-410B-AF3B-91730EB4256B}|PrimeNumRange\\PrimeNumRange.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\primenumrange\\primenumrange\\checkprimenumberinenteredrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED6F4F4-3324-410B-AF3B-91730EB4256B}|PrimeNumRange\\PrimeNumRange.csproj|solutionrelative:primenumrange\\checkprimenumberinenteredrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7617255B-AEBD-4331-A8E8-E4F7ED4D1809}|PrimeNumber\\PrimeNumber.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\primenumber\\primenumber\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7617255B-AEBD-4331-A8E8-E4F7ED4D1809}|PrimeNumber\\PrimeNumber.csproj|solutionrelative:primenumber\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FED6F4F4-3324-410B-AF3B-91730EB4256B}|PrimeNumRange\\PrimeNumRange.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\primenumrange\\primenumrange\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED6F4F4-3324-410B-AF3B-91730EB4256B}|PrimeNumRange\\PrimeNumRange.csproj|solutionrelative:primenumrange\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7617255B-AEBD-4331-A8E8-E4F7ED4D1809}|PrimeNumber\\PrimeNumber.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\primenumber\\primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7617255B-AEBD-4331-A8E8-E4F7ED4D1809}|PrimeNumber\\PrimeNumber.csproj|solutionrelative:primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FED6F4F4-3324-410B-AF3B-91730EB4256B}|PrimeNumRange\\PrimeNumRange.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\primenumrange\\primenumrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED6F4F4-3324-410B-AF3B-91730EB4256B}|PrimeNumRange\\PrimeNumRange.csproj|solutionrelative:primenumrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,39 +75,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CheckIfPrimeNumber.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumber\\PrimeNumber\\CheckIfPrimeNumber.cs",
-              "RelativeDocumentMoniker": "PrimeNumber\\CheckIfPrimeNumber.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumber\\PrimeNumber\\CheckIfPrimeNumber.cs",
-              "RelativeToolTip": "PrimeNumber\\CheckIfPrimeNumber.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Title": "CheckPrimeNumberInEnteredRange.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumRange\\PrimeNumRange\\CheckPrimeNumberInEnteredRange.cs",
+              "RelativeDocumentMoniker": "PrimeNumRange\\CheckPrimeNumberInEnteredRange.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumRange\\PrimeNumRange\\CheckPrimeNumberInEnteredRange.cs",
+              "RelativeToolTip": "PrimeNumRange\\CheckPrimeNumberInEnteredRange.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T04:29:22.39Z",
+              "WhenOpened": "2025-05-21T05:42:46.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "InputHelper.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumber\\PrimeNumber\\InputHelper.cs",
-              "RelativeDocumentMoniker": "PrimeNumber\\InputHelper.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumber\\PrimeNumber\\InputHelper.cs",
-              "RelativeToolTip": "PrimeNumber\\InputHelper.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumRange\\PrimeNumRange\\InputHelper.cs",
+              "RelativeDocumentMoniker": "PrimeNumRange\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumRange\\PrimeNumRange\\InputHelper.cs",
+              "RelativeToolTip": "PrimeNumRange\\InputHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T04:23:43.8Z"
+              "WhenOpened": "2025-05-21T05:14:50.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumber\\PrimeNumber\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeNumber\\Program.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumber\\PrimeNumber\\Program.cs",
-              "RelativeToolTip": "PrimeNumber\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumRange\\PrimeNumRange\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeNumRange\\Program.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\PrimeNumRange\\PrimeNumRange\\Program.cs",
+              "RelativeToolTip": "PrimeNumRange\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T04:23:15.527Z"
+              "WhenOpened": "2025-05-21T05:14:06.143Z",
+              "EditorCaption": ""
             }
           ]
         },
