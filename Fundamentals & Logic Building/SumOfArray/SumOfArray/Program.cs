@@ -3,10 +3,10 @@
 
 using SumOfArray;
 
-int sizeOfArray = InputHelper.ValidateTheSizeOfarray("Please enter the size of the array!");
+int sizeOfArray = InputHelper.ValidateTheSizeOfArray("Please enter the size of the array!");
 int[] intArray = new int[sizeOfArray];
 
-intArray = InputHelper.addingValuesToArrayAndValidation(intArray);
+InputHelper.addingValuesToArrayAndValidation(intArray);
 
 int sum = AddTheElementsOfTheArray.AddingTheElementsOfArray(intArray);
 
