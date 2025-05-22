@@ -3,7 +3,11 @@
 
 using SumOfArray;
 
-int sizeOfArray = InputHelper.ValidateTheSizeOFarray("Please enter the size of the array!");
+int sizeOfArray = InputHelper.ValidateTheSizeOfarray("Please enter the size of the array!");
 int[] intArray = new int[sizeOfArray];
 
 intArray = InputHelper.addingValuesToArrayAndValidation(intArray);
+
+int sum = AddTheElementsOfTheArray.AddingTheElementsOfArray(intArray);
+
+Console.WriteLine($"Total = {sum}");

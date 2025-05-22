@@ -10,12 +10,12 @@ namespace SumOfArray
     {
         public static int AddingTheElementsOfArray(int[] array)
         {
-            int SumOfArray = 0;
-            for (int i = 0; i < array.Length-1; i++)
+            int sumOfArray = 0;
+            for (int i = 0; i < array.Length; i++)
             {
-                SumOfArray += array[i];
+                sumOfArray += array[i];
             }
-            return SumOfArray;
+            return sumOfArray;
         }
     }
 }

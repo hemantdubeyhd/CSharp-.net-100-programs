@@ -8,14 +8,14 @@ namespace SumOfArray
 {
     internal static class InputHelper
     {
-        public static int ValidateTheSizeOFarray(string statement)
+        public static int ValidateTheSizeOfArray(string statement)
         {
             Console.WriteLine(statement);
 
             while (true) 
             {
                 string input = Console.ReadLine();
-                if (int.TryParse(input, out var arraySize))
+                if (int.TryParse(input, out int arraySize))
                 {
                     if (arraySize <= 0)
                     {
@@ -33,7 +33,7 @@ namespace SumOfArray
 
         public static int[] addingValuesToArrayAndValidation(int[] array)
         {
-            for (int i = 0; i < array.Length-1; i++)
+            for (int i = 0; i < array.Length; i++)
             {
                 Console.Write($"Please enetr the valve for array[{i}]: ");
                 string input = Console.ReadLine();
