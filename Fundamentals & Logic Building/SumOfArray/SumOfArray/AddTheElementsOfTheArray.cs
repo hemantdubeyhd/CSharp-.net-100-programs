@@ -16,9 +16,9 @@ namespace SumOfArray
             //    sumOfArray += array[i];
             //}
 
-            foreach (int i in array)
+            foreach (int number in array)
             {
-                sumOfArray += i;
+                sumOfArray += number;
             }
             return sumOfArray;
         }
