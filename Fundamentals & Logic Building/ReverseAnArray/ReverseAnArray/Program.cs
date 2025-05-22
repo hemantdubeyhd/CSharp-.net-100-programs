@@ -8,6 +8,6 @@ int[] intArray = new int[sizeOfArray];
 intArray = InputHelper.addingValuesToArrayAndValidation(intArray);
 PrintTheArray.PrintingTheArray(intArray);
 
-ReverseTheArray.ReversingTheArray(intArray);
+ArrayReverser.ReversingTheArray(intArray);
 
 

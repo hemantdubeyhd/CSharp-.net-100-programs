@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ReverseAnArray
 {
-    internal static class ReverseTheArray
+    internal static class ArrayReverser
     {
         public static void ReversingTheArray(int[] array) 
         {
