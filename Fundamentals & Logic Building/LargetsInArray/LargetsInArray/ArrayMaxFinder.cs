@@ -18,7 +18,7 @@ namespace LargestInArray
                   max = array[i];
                 }
             }
-           // ArrayPrinter.PrintingTheArray(array);
+            ArrayPrinter.PrintingTheArray(array);
             Console.WriteLine($"Largest Element in array is {max}");
         }
     }
