@@ -8,10 +8,10 @@ namespace ReverseAnArray
 {
     internal static class ReverseTheArray
     {
-        public static void ReverseingTheArray(int[] array) 
+        public static void ReversingTheArray(int[] array) 
         {
             int temp;
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < array.Length /2; i++)
             {
                 temp = array[i];
                 
