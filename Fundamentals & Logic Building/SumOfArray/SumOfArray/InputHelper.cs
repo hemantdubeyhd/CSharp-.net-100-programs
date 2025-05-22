@@ -30,5 +30,24 @@ namespace SumOfArray
                 }
             }
         }
+
+        public static int[] addingValuesToArrayAndValidation(int[] array)
+        {
+            for (int i = 0; i < array.Length-1; i++)
+            {
+                Console.Write($"Please enetr the valve for array[{i}]: ");
+                string input = Console.ReadLine();
+                if (int.TryParse(input, out int element)) 
+                {
+                    array[i] = element;
+                    continue;
+                }
+                i--;
+                Console.WriteLine("Please enter a valid integer number");
+       
+
+            }
+            return array;
+        }
     }
 }

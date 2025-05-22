@@ -4,4 +4,6 @@
 using SumOfArray;
 
 int sizeOfArray = InputHelper.ValidateTheSizeOFarray("Please enter the size of the array!");
-Console.WriteLine(sizeOfArray);
+int[] intArray = new int[sizeOfArray];
+
+intArray = InputHelper.addingValuesToArrayAndValidation(intArray);
