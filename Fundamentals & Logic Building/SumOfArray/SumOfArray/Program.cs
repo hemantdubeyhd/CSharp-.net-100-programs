@@ -6,7 +6,7 @@ using SumOfArray;
 int sizeOfArray = InputHelper.ValidateTheSizeOfArray("Please enter the size of the array!");
 int[] intArray = new int[sizeOfArray];
 
-InputHelper.addingValuesToArrayAndValidation(intArray);
+intArray = InputHelper.addingValuesToArrayAndValidation(intArray);
 
 int sum = AddTheElementsOfTheArray.AddingTheElementsOfArray(intArray);
 

@@ -11,9 +11,14 @@ namespace SumOfArray
         public static int AddingTheElementsOfArray(int[] array)
         {
             int sumOfArray = 0;
-            for (int i = 0; i < array.Length; i++)
+            //for (int i = 0; i < array.Length; i++)
+            //{
+            //    sumOfArray += array[i];
+            //}
+
+            foreach (int i in array)
             {
-                sumOfArray += array[i];
+                sumOfArray += i;
             }
             return sumOfArray;
         }
