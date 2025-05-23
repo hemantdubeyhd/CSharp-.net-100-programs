@@ -13,13 +13,16 @@ namespace CharFrequency
            Dictionary<char,int> frequencyMap = new Dictionary<char,int>();
             foreach (char ch in input)
             {
-                if (frequencyMap.ContainsKey(ch))
-                {
-                    frequencyMap[ch]++;
-                }
-                else
-                {
-                    frequencyMap[ch] = 1;
+                if (!(char.IsWhiteSpace(ch)))
+                 {
+                    if (frequencyMap.ContainsKey(ch))
+                    {
+                        frequencyMap[ch]++;
+                    }
+                    else
+                    {
+                        frequencyMap[ch] = 1;
+                    } 
                 }
             }
 
