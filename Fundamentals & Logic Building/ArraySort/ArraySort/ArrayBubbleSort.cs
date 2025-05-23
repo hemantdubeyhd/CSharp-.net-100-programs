@@ -24,9 +24,6 @@ namespace ArraySort
 
                 }
             }
-            
-            ArrayPrinter.PrintingTheArray(array);
-            //Console.WriteLine($"Largest Element in array is {max}");
         }
     }
    

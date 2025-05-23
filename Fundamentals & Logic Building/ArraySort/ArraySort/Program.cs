@@ -11,3 +11,4 @@ ArrayPrinter.PrintingTheArray(intArray);
 Console.WriteLine();
 
 ArrayBubbleSort.BubbleSortingAnArray(intArray);
+ArrayPrinter.PrintingTheArray(intArray);
