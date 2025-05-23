@@ -27,7 +27,7 @@ namespace CharFrequency
             }
 
            // foreach (KeyValuePair<char,int> item in frequencyMap) //this can be easily written as:
-           foreach( var item  in frequencyMap )
+           foreach( var item  in frequencyMap.OrderBy(x => x.Key) )
             {
                 //Console.WriteLine(item); // this can be written more clearly as:
                 Console.WriteLine($"Character {item.Key} occurs {item.Value} time(s)");
