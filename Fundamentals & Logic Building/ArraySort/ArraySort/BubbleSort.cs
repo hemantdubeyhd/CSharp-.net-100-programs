@@ -40,9 +40,10 @@ namespace ArraySort
         public static void BubbleSorting(int[] array)
         {
             int temp;
-            bool swapped = false;
+           
             for (int i = 0; i < array.Length - 1; i++)
             {
+                bool swapped = false;
                 for (int j = 0; j < array.Length - i - 1; j++)
                 {
                     if (array[j] > array[j + 1])
