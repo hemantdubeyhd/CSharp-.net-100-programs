@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ArraySort
 {
-    internal class ArrayBubbleSort
+    internal class BubbleSort
     {
-        public static void BubbleSortingAnArray(int[] array)
+        public static void BubbleSorting(int[] array)
         {
             int temp;
             for (int i = 0; i < array.Length -1; i++)

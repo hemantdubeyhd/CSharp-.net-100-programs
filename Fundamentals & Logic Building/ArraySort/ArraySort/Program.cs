@@ -8,7 +8,8 @@ intArray = InputHelper.addingValuesToArrayAndValidation(intArray);
 
 
 ArrayPrinter.PrintingTheArray(intArray);
-Console.WriteLine();
+Console.ReadLine();
 
-ArrayBubbleSort.BubbleSortingAnArray(intArray);
+Console.Clear();
+BubbleSort.BubbleSorting(intArray);
 ArrayPrinter.PrintingTheArray(intArray);
