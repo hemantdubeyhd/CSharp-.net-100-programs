@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\CharFrequency\\",
+  "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6920E637-C9E0-4C37-84CF-F0F1684C7448}|CharFrequency\\CharFrequency.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\charfrequency\\charfrequency\\charfrequencychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6920E637-C9E0-4C37-84CF-F0F1684C7448}|CharFrequency\\CharFrequency.csproj|solutionrelative:charfrequency\\charfrequencychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\arraymerger\\arraymerger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|solutionrelative:arraymerger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6920E637-C9E0-4C37-84CF-F0F1684C7448}|CharFrequency\\CharFrequency.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\charfrequency\\charfrequency\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6920E637-C9E0-4C37-84CF-F0F1684C7448}|CharFrequency\\CharFrequency.csproj|solutionrelative:charfrequency\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\arraymerger\\arraymerger\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|solutionrelative:arraymerger\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6920E637-C9E0-4C37-84CF-F0F1684C7448}|CharFrequency\\CharFrequency.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\charfrequency\\charfrequency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6920E637-C9E0-4C37-84CF-F0F1684C7448}|CharFrequency\\CharFrequency.csproj|solutionrelative:charfrequency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\arraymerger\\arraymerger\\arrayprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|solutionrelative:arraymerger\\arrayprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 698,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,41 +74,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CharFrequencyChecker.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\CharFrequency\\CharFrequency\\CharFrequencyChecker.cs",
-              "RelativeDocumentMoniker": "CharFrequency\\CharFrequencyChecker.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\CharFrequency\\CharFrequency\\CharFrequencyChecker.cs",
-              "RelativeToolTip": "CharFrequency\\CharFrequencyChecker.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvx0AAABBAAAA",
+              "DocumentIndex": 2,
+              "Title": "ArrayPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\ArrayPrinter.cs",
+              "RelativeDocumentMoniker": "ArrayMerger\\ArrayPrinter.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\ArrayPrinter.cs",
+              "RelativeToolTip": "ArrayMerger\\ArrayPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T06:01:19.998Z",
+              "WhenOpened": "2025-05-25T23:51:13.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "InputHelper.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\CharFrequency\\CharFrequency\\InputHelper.cs",
-              "RelativeDocumentMoniker": "CharFrequency\\InputHelper.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\CharFrequency\\CharFrequency\\InputHelper.cs",
-              "RelativeToolTip": "CharFrequency\\InputHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\InputHelper.cs",
+              "RelativeDocumentMoniker": "ArrayMerger\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\InputHelper.cs",
+              "RelativeToolTip": "ArrayMerger\\InputHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T05:38:55.329Z",
+              "WhenOpened": "2025-05-25T23:40:55.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\CharFrequency\\CharFrequency\\Program.cs",
-              "RelativeDocumentMoniker": "CharFrequency\\Program.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\CharFrequency\\CharFrequency\\Program.cs",
-              "RelativeToolTip": "CharFrequency\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayMerger\\Program.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\Program.cs",
+              "RelativeToolTip": "ArrayMerger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T05:38:12.095Z",
+              "WhenOpened": "2025-05-25T23:37:57.93Z",
               "EditorCaption": ""
             }
           ]
