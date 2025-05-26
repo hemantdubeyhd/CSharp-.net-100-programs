@@ -8,14 +8,8 @@ Student student1 = new Student();
 InputStudentInfo inputStudentInfo = new InputStudentInfo();
 inputStudentInfo.SetStudentInfo(student1);
 
-Console.WriteLine(student1.name);
-Console.WriteLine(student1.age);
-
 SectionSetter sectionSetter = new SectionSetter();
-
 sectionSetter.SettingSection(student1);
 
-Console.WriteLine(student1.name);
-Console.WriteLine(student1.age);
-Console.WriteLine(student1.section);
-
+DisplayStudentInfo displayStudentInfo = new DisplayStudentInfo();
+displayStudentInfo.Display(student1);

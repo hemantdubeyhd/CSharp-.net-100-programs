@@ -8,5 +8,11 @@ namespace Students
 {
     internal class DisplayStudentInfo
     {
+        public void Display(Student student)
+        {
+            Console.WriteLine(student.name);
+            Console.WriteLine(student.age);
+            Console.WriteLine(student.section);
+        }
     }
 }
