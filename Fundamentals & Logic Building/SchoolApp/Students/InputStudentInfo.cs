@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Students
 {
-    internal class StudentInfo
+    internal class InputStudentInfo
     {
-        public static void setStudentInfo(Student student)
+        public  void SetStudentInfo(Student student)
         {
             while (true)
             {

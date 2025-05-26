@@ -13,9 +13,9 @@ namespace Students
         private char _section;
 
         public string name
-        { 
+        {
             get
-            { 
+            {
                 return _name;
             }
 
@@ -55,21 +55,5 @@ namespace Students
             }
         }
 
-       public void AssignSectionBasedOnNAme()
-        {
-            if(!string.IsNullOrEmpty(name))
-            {
-                char firstLetter = char.ToUpper(name[0]);
-                if(firstLetter >= 'A' && firstLetter <= 'P')
-                {
-                    section = 'A';
-                }
-                else
-                {
-                    section = 'B';
-                }
-            }
-            
-        }
     }
 }

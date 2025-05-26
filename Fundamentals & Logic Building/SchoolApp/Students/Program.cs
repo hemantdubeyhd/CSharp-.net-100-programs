@@ -5,8 +5,17 @@ using Students;
 
 Student student1 = new Student();
 
+InputStudentInfo inputStudentInfo = new InputStudentInfo();
+inputStudentInfo.SetStudentInfo(student1);
 
+Console.WriteLine(student1.name);
+Console.WriteLine(student1.age);
 
-Console.WriteLine("enter student's age");
+SectionSetter sectionSetter = new SectionSetter();
 
-int.TryParse()
+sectionSetter.SettingSection(student1);
+
+Console.WriteLine(student1.name);
+Console.WriteLine(student1.age);
+Console.WriteLine(student1.section);
+
