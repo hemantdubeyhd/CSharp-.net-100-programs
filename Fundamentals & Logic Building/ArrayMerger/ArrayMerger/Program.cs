@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
-using ArrayMerger;
+using ConcatArrays;
 
 int size = InputHelper.ValidateTheSizeOfArray("Please Enter the size of the first array");
 int[] array1 = new int[size];
@@ -18,4 +18,7 @@ InputHelper.addingValuesToArray(array2);
 
 int[] mergedArray = new int[size + array1.Length];
 
+ArrayMerger.mergeArrays(array1, array2 , mergedArray);
+
 //Console.WriteLine($"Lenght of merged array is {mergedArray.Length}");
+ArrayPrinter.Print(mergedArray);

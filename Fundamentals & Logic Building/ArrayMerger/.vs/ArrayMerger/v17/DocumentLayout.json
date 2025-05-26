@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|solutionrelative:arraymerger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\arraymerger\\arraymerger\\arraymerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|solutionrelative:arraymerger\\arraymerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\arraymerger\\arraymerger\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D55C1475-9F6A-4F72-B9BA-E3B864549DBF}|ArrayMerger\\ArrayMerger.csproj|solutionrelative:arraymerger\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 698,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,26 +78,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "ArrayMerger.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\ArrayMerger.cs",
+              "RelativeDocumentMoniker": "ArrayMerger\\ArrayMerger.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\ArrayMerger.cs",
+              "RelativeToolTip": "ArrayMerger\\ArrayMerger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:16:00.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ArrayPrinter.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\ArrayPrinter.cs",
               "RelativeDocumentMoniker": "ArrayMerger\\ArrayPrinter.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\ArrayPrinter.cs",
               "RelativeToolTip": "ArrayMerger\\ArrayPrinter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T23:51:13.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InputHelper.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\InputHelper.cs",
               "RelativeDocumentMoniker": "ArrayMerger\\InputHelper.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\InputHelper.cs",
               "RelativeToolTip": "ArrayMerger\\InputHelper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T23:40:55.577Z",
               "EditorCaption": ""
@@ -106,7 +123,7 @@
               "RelativeDocumentMoniker": "ArrayMerger\\Program.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\ArrayMerger\\ArrayMerger\\Program.cs",
               "RelativeToolTip": "ArrayMerger\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T23:37:57.93Z",
               "EditorCaption": ""

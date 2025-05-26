@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\ArrayMerger\\ArrayMerger\\ArrayMerger.csproj",
-      "projectName": "ArrayMerger",
-      "projectPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\ArrayMerger\\ArrayMerger\\ArrayMerger.csproj",
+      "projectUniqueName": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\ArrayMerger\\ArrayMerger\\ConcatArrays.csproj",
+      "projectName": "ConcatArrays",
+      "projectPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\ArrayMerger\\ArrayMerger\\ConcatArrays.csproj",
       "packagesPath": "C:\\Users\\hemant.dubey\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals & Logic Building\\ArrayMerger\\ArrayMerger\\obj\\",
       "projectStyle": "PackageReference",
