@@ -9,7 +9,6 @@ namespace BankAccounts
     internal class AccountBalance
     {
         public decimal Balance {  get; set; }
-        string input;
         public void Diposit()
         {
             while (true)
@@ -32,11 +31,16 @@ namespace BankAccounts
         {
             while (true)
             {
-                Console.WriteLine("Please enter the amount to withdraw.");
+                Console.WriteLine($"You have {Balance} in your account, please enter the amount to withdraw.");
                 if (int.TryParse(Console.ReadLine(), out int amount))
                 {
-                    Balance += amount;
-                    break;
+                    Balance -= amount;
+                    if(Balance < 0) 
+                    {
+                        Balance += amount;
+                        Console.WriteLine($"You have {Balance} in your account, please netr amount equla or less than this value.");
+                    }
+                    continue;
                 }
                 else
                 {
