@@ -1,0 +1,15 @@
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\bin\Debug\net8.0\Students.exe
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\bin\Debug\net8.0\Students.deps.json
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\bin\Debug\net8.0\Students.runtimeconfig.json
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\bin\Debug\net8.0\Students.dll
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\bin\Debug\net8.0\Students.pdb
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\Students.AssemblyInfoInputs.cache
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\Students.AssemblyInfo.cs
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\Students.sourcelink.json
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\Students.dll
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\refint\Students.dll
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\Students.pdb
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\Students.genruntimeconfig.cache
+C:\Users\hemant.dubey\OneDrive - SRA Information Technology PTY LTD\Desktop\2.0 studies and pactice\C-.net-100-programs\Fundamentals & Logic Building\SchoolApp\Students\obj\Debug\net8.0\ref\Students.dll
