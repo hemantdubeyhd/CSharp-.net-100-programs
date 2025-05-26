@@ -8,7 +8,8 @@ namespace BankAccounts
 {
     internal class AccountDetail
     {
+       
         AccountHolder accountHolder;
-        AccountBalance Accountbalance;
+        AccountBalance accountBalance;
     }
 }

@@ -8,7 +8,7 @@ namespace BankAccounts
 {
     internal class AccountHolder
     {
-        public string Id {  get; set; }
+        AccountId AccountId;
         public string Name {  get; set; }
         public string EmailId {  get; set; }
     }
