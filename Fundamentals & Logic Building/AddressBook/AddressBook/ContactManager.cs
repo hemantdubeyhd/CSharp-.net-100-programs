@@ -9,7 +9,7 @@ namespace AddressBook
 {
     internal class ContactManager
     {
-        Dictionary<string, Contact> Contacts = new Dictionary<string, Contact>();
+        Dictionary<string, Contact> contacts = new Dictionary<string, Contact>();
       
         public void AddContacts()
         {
@@ -22,7 +22,7 @@ namespace AddressBook
                 return;
             }
 
-            if (Contacts.ContainsKey(name)) 
+            if (contacts.ContainsKey(name)) 
             {
                 Console.WriteLine($"{name} already exists in address reords.");
                 return;
@@ -51,8 +51,9 @@ namespace AddressBook
                 EmailId = email
             };
 
+            Console.WriteLine($"{name} was added sucessfully");
 
-            Contacts[name] = newContact;
+            contacts[name] = newContact;
             
         }
 
