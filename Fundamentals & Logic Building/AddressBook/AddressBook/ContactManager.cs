@@ -14,39 +14,45 @@ namespace AddressBook
         public void AddContacts()
         {
             Console.WriteLine("please Eneter Contact name");
-            string input = Console.ReadLine().Trim();
+            string name = Console.ReadLine().Trim();
 
-            if (StringInputValidator.checkInputNullEmptyOrSpace(input))
+            if (StringInputValidator.checkInputNullEmptyOrSpace(name))
             {
                 Console.WriteLine("name cannot be empty.");
                 return;
             }
 
-            if (Contacts.ContainsKey(input)) 
+            if (Contacts.ContainsKey(name)) 
             {
-                Console.WriteLine($"{input} already exists in address reords.");
+                Console.WriteLine($"{name} already exists in address reords.");
                 return;
             }
 
             Console.WriteLine("please Eneter Contact Email");
-            if (StringInputValidator.checkInputNullEmptyOrSpace(input))
+            string email = Console.ReadLine();
+            if (StringInputValidator.checkInputNullEmptyOrSpace(email))
             {
                 Console.WriteLine("Email cannot be empty.");
                 return;
             }
 
             Console.WriteLine("please Eneter Contact phone");
-            input = Console.ReadLine().Trim();
-            if (StringInputValidator.checkInputNullEmptyOrSpace(input))
+            string phone = Console.ReadLine().Trim();
+            if (StringInputValidator.checkInputNullEmptyOrSpace(phone))
             {
                 Console.WriteLine("phone cannot be empty.");
                 return;
             }
 
-            Contact newContact = new Contact();
+            Contact newContact = new Contact 
+            {
+                Name = name,
+                Phone = phone,
+                EmailId = email
+            };
 
 
-            Contacts[nameof] = newContact;
+            Contacts[name] = newContact;
             
         }
 
