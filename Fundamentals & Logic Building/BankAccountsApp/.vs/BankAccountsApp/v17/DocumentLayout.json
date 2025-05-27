@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|solutionrelative:bankaccounts\\accountholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\bankaccountsapp\\bankaccounts\\accountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|solutionrelative:bankaccounts\\accountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\bankaccountsapp\\bankaccounts\\accountbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|solutionrelative:bankaccounts\\accountbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\bankaccountsapp\\bankaccounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|solutionrelative:bankaccounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\bankaccountsapp\\bankaccounts\\accountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD7C904E-E065-4556-9D3B-899504D80A2A}|BankAccounts\\BankAccounts.csproj|solutionrelative:bankaccounts\\accountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AccountId.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\BankAccountsApp\\BankAccounts\\AccountId.cs",
               "RelativeDocumentMoniker": "BankAccounts\\AccountId.cs",
@@ -90,18 +90,17 @@
               "RelativeToolTip": "BankAccounts\\AccountId.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T08:40:38.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T08:40:38.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AccountBalance.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\BankAccountsApp\\BankAccounts\\AccountBalance.cs",
               "RelativeDocumentMoniker": "BankAccounts\\AccountBalance.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\BankAccountsApp\\BankAccounts\\AccountBalance.cs",
               "RelativeToolTip": "BankAccounts\\AccountBalance.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAADAAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T06:22:32.777Z",
               "EditorCaption": ""
@@ -114,27 +113,27 @@
               "RelativeDocumentMoniker": "BankAccounts\\AccountHolder.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\BankAccountsApp\\BankAccounts\\AccountHolder.cs",
               "RelativeToolTip": "BankAccounts\\AccountHolder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T06:06:51.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AccountDetail.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\BankAccountsApp\\BankAccounts\\AccountDetail.cs",
               "RelativeDocumentMoniker": "BankAccounts\\AccountDetail.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\BankAccountsApp\\BankAccounts\\AccountDetail.cs",
               "RelativeToolTip": "BankAccounts\\AccountDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T05:59:31.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\BankAccountsApp\\BankAccounts\\Program.cs",
               "RelativeDocumentMoniker": "BankAccounts\\Program.cs",
@@ -142,8 +141,7 @@
               "RelativeToolTip": "BankAccounts\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T05:53:37.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T05:53:37.541Z"
             }
           ]
         },
