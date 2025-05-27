@@ -9,7 +9,7 @@ namespace BankAccounts
     internal class AccountDetail
     {
        
-        AccountHolder accountHolder { get; }
-        AccountBalance accountBalance { get; }
+        public AccountHolder accountHolder { get; }
+        public AccountBalance accountBalance { get; }
     }
 }
