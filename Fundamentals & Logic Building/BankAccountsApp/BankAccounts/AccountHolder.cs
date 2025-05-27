@@ -19,6 +19,7 @@ namespace BankAccounts
             Name = name;
             EmailId = email;
         }
+
         public static AccountHolder Create()
         {
             Console.WriteLine("Please enter the name");
