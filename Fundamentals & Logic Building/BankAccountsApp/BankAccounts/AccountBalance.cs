@@ -35,7 +35,6 @@ namespace BankAccounts
                 Console.WriteLine($"You have ${Balance} in your account, please enter amount equal or less than this value.");
                 if (decimal.TryParse(Console.ReadLine(), out decimal amount) && amount > 0 )
                 {
-                    Balance -= amount;
                     if (amount <= Balance)
                     {
                         Balance -= amount;

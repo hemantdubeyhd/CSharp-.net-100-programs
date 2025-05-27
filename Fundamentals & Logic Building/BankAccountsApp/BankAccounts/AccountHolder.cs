@@ -19,7 +19,7 @@ namespace BankAccounts
             Name = name;
             EmailId = email;
         }
-        public static AccountHolder CreateComInterfaceFlags()
+        public static AccountHolder Create()
         {
             Console.WriteLine("Please enter the name");
             string name = Console.ReadLine();
@@ -34,7 +34,7 @@ namespace BankAccounts
 
         public override string ToString()
         {
-            return $"AccountHolde{Name}, Id: {AccountId}, Email: {EmailId}";
+            return $"AccountHolder: {Name}, Id: {AccountId}, Email: {EmailId}";
         }
 
     }
