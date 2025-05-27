@@ -9,7 +9,7 @@ namespace BankAccounts
     internal class AccountBalance
     {
         public decimal Balance {  get; set; }
-        public void Diposit()
+        public void Deposit()
         {
             while (true)
             {
@@ -38,7 +38,7 @@ namespace BankAccounts
                     if (amount <= Balance)
                     {
                         Balance -= amount;
-                        Console.WriteLine($"Successfully withdrawn the ${amount}, new balance is {Balance}");
+                        Console.WriteLine($"Successfully withdrawn the ${amount}, new balance is ${Balance}");
                         break;
                     }
                     else 
