@@ -18,6 +18,11 @@ namespace BankAccounts
             AccountBalance = balance;
         }
 
+        public static AccountDetail Create(AccountHolder holder, AccountBalance balance)
+        {
+            return new AccountDetail(holder, balance);
+        }
+
         public void DisplayInfo()
         {
             Console.WriteLine($"Account ID: {AccountHolder.AccountId}");
