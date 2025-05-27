@@ -9,7 +9,21 @@ namespace BankAccounts
     internal class AccountDetail
     {
        
-        public AccountHolder accountHolder { get; }
-        public AccountBalance accountBalance { get; }
+        public AccountHolder AccountHolder { get; }
+        public AccountBalance AccountBalance { get; }
+
+        private AccountDetail(AccountHolder holder, AccountBalance balance) 
+        {
+            AccountHolder = holder;
+            AccountBalance = balance;
+        }
+
+        public void DisplayInfo()
+        {
+            Console.WriteLine($"Account ID: {AccountHolder.AccountId}");
+            Console.WriteLine($"Name: {AccountHolder.Name}");
+            Console.WriteLine($"EMail: {AccountHolder.EmailId}");
+            Console.WriteLine($"Balance: {AccountBalance.Balance}");
+        }
     }
 }
