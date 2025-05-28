@@ -86,13 +86,55 @@ namespace AddressBook
             int noOfRecords = contacts.Count;
             if (noOfRecords == 0)
             {
-                Console.WriteLine("Address book is emty, no records found!");
+                Console.WriteLine("Address book is empty, no records found!");
                 return; 
             }
+            Console.WriteLine("All contacts in Address book:");
+            int count = 1;
             foreach (Contact contact in  contacts.Values)
             {
+                Console.WriteLine($"Conatct #{count++}");
                 Console.WriteLine(contact);
+                Console.WriteLine();
             }
+
+
+        }
+
+        public void Delete()
+        {
+            Console.WriteLine("please enter a name to delerte the record for");
+            string name = Console.ReadLine().Trim();
+
+            if (StringInputValidator.checkInputNullEmptyOrSpace(name))
+            {
+                Console.WriteLine("Name cant be empty");
+                return;
+            }
+
+            //Two diffrernt way to impelment delete:
+
+            //if (contacts.ContainsKey(name))
+            //{
+            //    contacts.Remove(name);
+            //    Console.WriteLine($"{name}'s record been deleted sucessfully");
+
+            //}
+
+
+            //Another way to rmove is:
+            if (contacts.Remove(name, out Contact removedContact))
+            {
+                Console.WriteLine("\n-----------------------------");
+                Console.WriteLine($"The following contatc has been removed form record {removedContact}");
+                Console.WriteLine("-----------------------------\n");
+
+            }
+            else
+            {
+                Console.WriteLine($"No contacts found with the name \"{name}\"");
+            }
+
         }
 
 
