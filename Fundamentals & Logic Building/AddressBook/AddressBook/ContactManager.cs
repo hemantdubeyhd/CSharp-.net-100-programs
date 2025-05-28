@@ -141,7 +141,37 @@ namespace AddressBook
 
         public void Update()
         {
-            
+            Console.WriteLine("please Eneter Contact name to update its record");
+            string name = Console.ReadLine().Trim();
+
+            if (StringInputValidator.checkInputNullEmptyOrSpace(name))
+            {
+                Console.WriteLine("name cannot be empty.");
+                return;
+            }
+
+            if (!contacts.TryGetValue(name, out Contact existingContact))
+            {
+                Console.WriteLine($"No record found with the name: {name}");
+                return;
+            }
+
+            Console.WriteLine("Leave the filed empty if you dont want to updte it");
+
+            Console.WriteLine($"Current Email:{existingContact.EmailId}");
+            Console.WriteLine("Please eneter new Email:");
+            string input = Console.ReadLine();
+            existingContact.EmailId = input;
+
+            Console.WriteLine($"Current Email:{existingContact.Phone}");
+            Console.WriteLine("Please eneter new Phone:");
+            input = Console.ReadLine();
+            existingContact.Phone = input;
+
+            Console.WriteLine($"Record has been updated SUcessfully. The pdated recor is as follow.");
+            Console.WriteLine(existingContact);
+
+
         }
 
 
