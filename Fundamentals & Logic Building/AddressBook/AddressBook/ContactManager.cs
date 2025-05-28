@@ -55,7 +55,9 @@ namespace AddressBook
 
             contacts[name] = newContact;
 
-            Console.WriteLine($"{name} was added sucessfully");
+            Console.WriteLine($"{name} was added sucessfully as follows:");
+            Console.WriteLine(newContact);
+
 
         }
 
