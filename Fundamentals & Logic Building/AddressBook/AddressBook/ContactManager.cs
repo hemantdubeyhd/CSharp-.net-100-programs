@@ -51,10 +51,12 @@ namespace AddressBook
                 EmailId = email
             };
 
-            Console.WriteLine($"{name} was added sucessfully");
+            
 
             contacts[name] = newContact;
-            
+
+            Console.WriteLine($"{name} was added sucessfully");
+
         }
 
         public void Search()
@@ -135,6 +137,11 @@ namespace AddressBook
                 Console.WriteLine($"No contacts found with the name \"{name}\"");
             }
 
+        }
+
+        public void Update()
+        {
+            
         }
 
 
