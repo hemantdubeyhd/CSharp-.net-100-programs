@@ -141,7 +141,7 @@ namespace AddressBook
 
         public void Update()
         {
-            Console.WriteLine("please Eneter Contact name to update its record");
+            Console.WriteLine("Please enter contact name to update its record:");
             string name = Console.ReadLine().Trim();
 
             if (StringInputValidator.checkInputNullEmptyOrSpace(name))
@@ -156,7 +156,7 @@ namespace AddressBook
                 return;
             }
 
-            Console.WriteLine("Leave the field empty if you dont want to updte it");
+            Console.WriteLine("Leave the field empty if you don't want to updte it");
 
             Console.WriteLine($"Current Email:{existingContact.EmailId}");
             Console.WriteLine("Please enter new Email:");
@@ -174,7 +174,7 @@ namespace AddressBook
                 existingContact.Phone = input;
             }
 
-            Console.WriteLine($"Record has been updated Sucessfully. The updated recor is as follow:");
+            Console.WriteLine($"Record has been updated sucessfully. The updated record is as follow:");
             Console.WriteLine(existingContact);
 
 
