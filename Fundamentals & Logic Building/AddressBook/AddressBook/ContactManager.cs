@@ -11,7 +11,7 @@ namespace AddressBook
     {
         Dictionary<string, Contact> contacts = new Dictionary<string, Contact>();
       
-        public void AddContacts()
+        public void Add()
         {
             Console.WriteLine("please Eneter Contact name");
             string name = Console.ReadLine().Trim();
@@ -55,6 +55,30 @@ namespace AddressBook
 
             contacts[name] = newContact;
             
+        }
+
+        public void Search()
+        { 
+           Console.WriteLine("Eneter a name to search contact info for");
+            string name = Console.ReadLine().Trim();
+
+            if(StringInputValidator.checkInputNullEmptyOrSpace(name))
+            {
+                Console.WriteLine("name cannot be empty.");
+                return;
+            }
+
+            if (contacts.ContainsKey(name))
+            {
+                Contact foundContact = contacts[name];
+                Console.WriteLine(foundContact);
+            }
+            else
+            {
+
+                Console.WriteLine($"there is no recors with name \"{name}\"");
+            }
+
         }
 
     }
