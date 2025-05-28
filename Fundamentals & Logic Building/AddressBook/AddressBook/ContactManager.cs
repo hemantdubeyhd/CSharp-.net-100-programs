@@ -13,6 +13,7 @@ namespace AddressBook
       
         public void Add()
         {
+            Console.Clear();
             Console.WriteLine("please Eneter Contact name");
             string name = Console.ReadLine().Trim();
 
@@ -62,8 +63,9 @@ namespace AddressBook
         }
 
         public void Search()
-        { 
-           Console.WriteLine("Eneter a name to search contact info for");
+        {
+            Console.Clear();
+            Console.WriteLine("Eneter a name to search contact info for");
             string name = Console.ReadLine().Trim();
 
             if(StringInputValidator.checkInputNullEmptyOrSpace(name))
@@ -87,6 +89,7 @@ namespace AddressBook
 
         public void DisplayAllRecords()
         {
+            Console.Clear();
             int noOfRecords = contacts.Count;
             if (noOfRecords == 0)
             {
@@ -107,6 +110,7 @@ namespace AddressBook
 
         public void Delete()
         {
+            Console.Clear();
             Console.WriteLine("please enter a name to delerte the record for");
             string name = Console.ReadLine().Trim();
 

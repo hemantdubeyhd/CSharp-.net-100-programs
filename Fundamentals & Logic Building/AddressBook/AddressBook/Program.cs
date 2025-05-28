@@ -5,3 +5,7 @@ using AddressBook;
 ContactManager contactList = new ContactManager();
 
 contactList.Add();
+contactList.Add();
+contactList.Add();
+
+contactList.DisplayAllRecords();

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\addressbook\\addressbook\\stringinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\stringinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\addressbook\\addressbook\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\addressbook\\addressbook\\stringinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\stringinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\addressbook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 698,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StringInputValidator.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\StringInputValidator.cs",
               "RelativeDocumentMoniker": "AddressBook\\StringInputValidator.cs",
@@ -91,20 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactManager.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\ContactManager.cs",
-              "RelativeDocumentMoniker": "AddressBook\\ContactManager.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\ContactManager.cs",
-              "RelativeToolTip": "AddressBook\\ContactManager.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAkwDoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T07:23:32.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\Contact.cs",
               "RelativeDocumentMoniker": "AddressBook\\Contact.cs",
@@ -123,7 +110,7 @@
               "RelativeDocumentMoniker": "AddressBook\\Program.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\Program.cs",
               "RelativeToolTip": "AddressBook\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T06:10:07.875Z",
               "EditorCaption": ""
@@ -183,6 +170,40 @@
             {
               "$type": "Bookmark",
               "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ef4b29f9-9071-4ea3-a485-a943daea672c",
+        "Display": 1,
+        "X": 336,
+        "Y": 110,
+        "Width": 2154,
+        "Height": 847,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\ContactManager.cs",
+              "RelativeDocumentMoniker": "AddressBook\\ContactManager.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\ContactManager.cs",
+              "RelativeToolTip": "AddressBook\\ContactManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:23:32.436Z",
+              "EditorCaption": ""
             }
           ]
         }
