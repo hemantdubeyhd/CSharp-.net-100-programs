@@ -81,5 +81,20 @@ namespace AddressBook
 
         }
 
+        public void DisplayAllRecords()
+        {
+            int noOfRecords = contacts.Count;
+            if (noOfRecords == 0)
+            {
+                Console.WriteLine("Address book is emty, no records found!");
+                return; 
+            }
+            foreach (Contact contact in  contacts.Values)
+            {
+                Console.WriteLine(contact);
+            }
+        }
+
+
     }
 }
