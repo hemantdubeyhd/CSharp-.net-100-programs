@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\addressbook\\addressbook\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\addressbook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\addressbook\\addressbook\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{493D28F6-AE6A-49E0-B667-361023021E1C}|AddressBook\\AddressBook.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\2.0 studies and pactice\\c-.net-100-programs\\fundamentals \u0026 logic building\\addressbook\\addressbook\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,35 +30,23 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1044750755:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -70,11 +58,23 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\Program.cs",
               "RelativeDocumentMoniker": "AddressBook\\Program.cs",
@@ -123,22 +123,12 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 436,
-          "SelectedChildIndex": -1,
-          "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -150,9 +140,29 @@
           ]
         },
         {
-          "DockedWidth": 227,
+          "DockedWidth": 171,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -160,10 +170,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             }
           ]
         }
@@ -188,7 +194,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContactManager.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\2.0 studies and pactice\\C-.net-100-programs\\Fundamentals \u0026 Logic Building\\AddressBook\\AddressBook\\ContactManager.cs",
               "RelativeDocumentMoniker": "AddressBook\\ContactManager.cs",
