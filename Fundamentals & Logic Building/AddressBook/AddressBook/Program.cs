@@ -9,3 +9,4 @@ contactList.Add();
 contactList.Add();
 
 contactList.DisplayAllRecords();
+contactList.Search();

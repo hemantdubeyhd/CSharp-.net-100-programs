@@ -59,7 +59,8 @@ namespace AddressBook
             Console.WriteLine($"{name} was added sucessfully as follows:");
             Console.WriteLine(newContact);
 
-
+            Console.WriteLine("Eneter any key to continue");
+            Console.ReadLine();
         }
 
         public void Search()
@@ -84,6 +85,8 @@ namespace AddressBook
 
                 Console.WriteLine($"there is no recors with name \"{name}\"");
             }
+            Console.WriteLine("Eneter any key to continue");
+            Console.ReadLine();
 
         }
 
@@ -104,7 +107,8 @@ namespace AddressBook
                 Console.WriteLine(contact);
                 Console.WriteLine();
             }
-
+            Console.WriteLine("Eneter any key to continue");
+            Console.ReadLine();
 
         }
 
@@ -142,7 +146,8 @@ namespace AddressBook
             {
                 Console.WriteLine($"No contacts found with the name \"{name}\"");
             }
-
+            Console.WriteLine("Eneter any key to continue");
+            Console.ReadLine();
         }
 
         public void Update()
@@ -183,7 +188,8 @@ namespace AddressBook
             Console.WriteLine($"Record has been updated sucessfully. The updated record is as follow:");
             Console.WriteLine(existingContact);
 
-
+            Console.WriteLine("Eneter any key to continue");
+            Console.ReadLine();
         }
 
 
