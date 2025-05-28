@@ -103,7 +103,7 @@ namespace AddressBook
             int count = 1;
             foreach (Contact contact in  contacts.Values)
             {
-                Console.WriteLine($"Conatct #{count++}");
+                Console.WriteLine($"Contact #{count++}");
                 Console.WriteLine(contact);
                 Console.WriteLine();
             }
