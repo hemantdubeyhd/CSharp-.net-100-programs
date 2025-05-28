@@ -156,19 +156,25 @@ namespace AddressBook
                 return;
             }
 
-            Console.WriteLine("Leave the filed empty if you dont want to updte it");
+            Console.WriteLine("Leave the field empty if you dont want to updte it");
 
             Console.WriteLine($"Current Email:{existingContact.EmailId}");
-            Console.WriteLine("Please eneter new Email:");
-            string input = Console.ReadLine();
-            existingContact.EmailId = input;
+            Console.WriteLine("Please enter new Email:");
+            string input = Console.ReadLine().Trim();
+            if (!StringInputValidator.checkInputNullEmptyOrSpace(input))
+            {
+                existingContact.EmailId = input;
+            }
+            Console.WriteLine($"Current Phone:{existingContact.Phone}");
+            Console.WriteLine("Please enter new Phone:");
+            input = Console.ReadLine().Trim();
 
-            Console.WriteLine($"Current Email:{existingContact.Phone}");
-            Console.WriteLine("Please eneter new Phone:");
-            input = Console.ReadLine();
-            existingContact.Phone = input;
+            if (!StringInputValidator.checkInputNullEmptyOrSpace(input))
+            {
+                existingContact.Phone = input;
+            }
 
-            Console.WriteLine($"Record has been updated SUcessfully. The pdated recor is as follow.");
+            Console.WriteLine($"Record has been updated Sucessfully. The updated recor is as follow:");
             Console.WriteLine(existingContact);
 
 
