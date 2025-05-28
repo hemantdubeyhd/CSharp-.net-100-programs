@@ -115,7 +115,7 @@ namespace AddressBook
         public void Delete()
         {
             Console.Clear();
-            Console.WriteLine("please enter a name to delerte the record for");
+            Console.WriteLine("please enter a name to delete the record for");
             string name = Console.ReadLine().Trim();
 
             if (StringInputValidator.checkInputNullEmptyOrSpace(name))

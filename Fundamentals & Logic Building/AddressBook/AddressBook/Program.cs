@@ -10,3 +10,6 @@ contactList.Add();
 
 contactList.DisplayAllRecords();
 contactList.Search();
+contactList.Delete();
+contactList.DisplayAllRecords();
+contactList.Update();
