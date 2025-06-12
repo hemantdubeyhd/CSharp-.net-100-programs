@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM\\ATM.csproj": {}
+    "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM.Tests\\ATM.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM\\ATM.csproj": {
+    "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM.Tests\\ATM.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM\\ATM.csproj",
-        "projectName": "ATM",
-        "projectPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM\\ATM.csproj",
+        "projectUniqueName": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM.Tests\\ATM.Tests.csproj",
+        "projectName": "ATM.Tests",
+        "projectPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM.Tests\\ATM.Tests.csproj",
         "packagesPath": "C:\\Users\\hemant.dubey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM\\obj\\",
+        "outputPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals & Logic Building\\ATMConsoleApp\\ATM.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
