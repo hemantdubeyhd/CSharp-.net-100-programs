@@ -21,18 +21,19 @@ while (true)
     {
         if (Enum.IsDefined(typeof(ATMMenuOption), choice))
         {
-            switch (choice)
+            ATMMenuOption selectedOption = (ATMMenuOption)choice;
+            switch (selectedOption)
             {
-                case (int)ATMMenuOption.CheckBalance:
+                case ATMMenuOption.CheckBalance:
                     Console.WriteLine();
                     break;
-                case (int)ATMMenuOption.Deposit:
+                case ATMMenuOption.Deposit:
                     Console.WriteLine("Case 2");
                     break;
-                case (int)ATMMenuOption.Withdraw:
+                case ATMMenuOption.Withdraw:
                     Console.WriteLine("Case 3");
                     break;
-                case (int)ATMMenuOption.Exit:
+                case ATMMenuOption.Exit:
                     Console.WriteLine($"Closing the app and logging off on {DateTime.Now.ToString("dd-MM-yyyy HH:mm:ss")}....Thanks!! ");
                     Environment.Exit(0);
                     break;
