@@ -7,13 +7,14 @@ using System.Threading.Tasks;
 
 //Very basic Authentification, there is immense space to improve about it..
 //can improve atleast : Case sentitive??, strickly numeric password??, hide password??..and more...
+//Most pathetic authentification I have ever see..lol..will come back after implementing basic services.
 namespace ATM.Security
 {
     internal class UserAuthenticator
     {
 
-        private const string userId = "Stall";
-        private const string userPassword = "1234";
+        private const string userId = "user";
+        private const string userPassword = "12";
         int count = 0;
         public UserAuthenticator()
         {
