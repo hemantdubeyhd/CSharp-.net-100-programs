@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\enums\\atmmenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\enums\\atmmenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\security\\userauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\security\\userauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 698,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,19 +87,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ATMMenuOptions.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Enums\\ATMMenuOptions.cs",
+              "RelativeDocumentMoniker": "ATM\\Enums\\ATMMenuOptions.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Enums\\ATMMenuOptions.cs",
+              "RelativeToolTip": "ATM\\Enums\\ATMMenuOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:59:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserAuthenticator.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Security\\UserAuthenticator.cs",
               "RelativeDocumentMoniker": "ATM\\Security\\UserAuthenticator.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Security\\UserAuthenticator.cs",
               "RelativeToolTip": "ATM\\Security\\UserAuthenticator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAvAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T00:23:04.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ATM.Tests\\UnitTest1.cs",
@@ -114,7 +131,7 @@
               "RelativeDocumentMoniker": "ATM\\Program.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Program.cs",
               "RelativeToolTip": "ATM\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAKAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T06:12:07.089Z",
               "EditorCaption": ""
