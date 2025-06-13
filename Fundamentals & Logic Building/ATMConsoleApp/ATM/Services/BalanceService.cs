@@ -12,6 +12,8 @@ namespace ATM.Services
         public static void DisplayBalance( Account account, string message = "Your current balance is:")
         {
             Console.WriteLine($"{message} ${account.Balance}");
+            Console.WriteLine("Press anykey to continue.....");
+            Console.ReadKey();
         }
     }
 }

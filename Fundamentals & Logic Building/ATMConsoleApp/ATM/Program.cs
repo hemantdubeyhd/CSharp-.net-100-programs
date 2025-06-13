@@ -7,19 +7,19 @@ using System.Security.Cryptography.X509Certificates;
 using System.Xml.Serialization;
 
 //UserAuthenticator userAuthenticator = new UserAuthenticator();
-
+Account account = null;
 while (true)
 {
     Console.Clear();
     Console.WriteLine("Pleasse select one of the operation:");
-    Console.WriteLine($"Press {(int)ATMMenuOption.CheckBalance} to Open a new account.");
+    Console.WriteLine($"Press {(int)ATMMenuOption.OpenAccount} to Open a new account.");
     Console.WriteLine($"Press {(int)ATMMenuOption.CheckBalance} to Check Balance.");
     Console.WriteLine($"Press {(int)ATMMenuOption.Deposit} to depsosite.");
     Console.WriteLine($"Press {(int)ATMMenuOption.Withdraw} to withdraw.");
     Console.WriteLine($"Press {(int)ATMMenuOption.Exit} to Exit");
    
     string input = Console.ReadLine();
-    
+  
     if (int.TryParse(input, out int choice))
     {
         if (Enum.IsDefined(typeof(ATMMenuOption), choice))
@@ -28,12 +28,33 @@ while (true)
             switch (selectedOption)
             {
                 case ATMMenuOption.OpenAccount:
-                    Account account = new Account(1000);
-                    ATM.Services.BalanceService.DisplayBalance(account);
-                    Console.ReadKey();
+                    if(account != null)
+                    {
+                        Console.WriteLine("You already have an Account");
+                        Console.WriteLine("Press anykey to continue.....");
+                        Console.ReadKey();
+
+                    }
+                    else
+                    {
+                        account = new Account(1000);
+                        ATM.Services.BalanceService.DisplayBalance(account);
+                    }
+                   
                     break;
                 case ATMMenuOption.CheckBalance:
-                    Console.WriteLine("Case 1");
+                  if(account == null)
+                    {
+                        Console.WriteLine("You don's have an account yet..");
+                        Console.WriteLine("Press anykey to continue.....");
+                        Console.ReadKey();
+
+                    }
+                    else
+                    {
+                        ATM.Services.BalanceService.DisplayBalance(account);
+                        Console.ReadKey();
+                    }
                     break;
                 case ATMMenuOption.Deposit:
                     Console.WriteLine("Case 2");
