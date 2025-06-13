@@ -9,7 +9,7 @@ namespace ATM.Services
 {
     internal class BalanceService
     {
-        public void DisplayBalance( Account account, string message = "Your current balance is:")
+        public static void DisplayBalance( Account account, string message = "Your current balance is:")
         {
             Console.WriteLine($"{message} ${account.Balance}");
         }

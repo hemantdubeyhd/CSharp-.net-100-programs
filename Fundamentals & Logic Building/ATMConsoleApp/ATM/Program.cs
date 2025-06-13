@@ -7,14 +7,12 @@ using System.Security.Cryptography.X509Certificates;
 using System.Xml.Serialization;
 
 //UserAuthenticator userAuthenticator = new UserAuthenticator();
-Account account = new Account(1000);
-BalanceService balanceService = new BalanceService();
-balanceService.DisplayBalance(account, "Opening Balance is");
-Console.ReadKey();
+
 while (true)
 {
     Console.Clear();
     Console.WriteLine("Pleasse select one of the operation:");
+    Console.WriteLine($"Press {(int)ATMMenuOption.CheckBalance} to Open a new account.");
     Console.WriteLine($"Press {(int)ATMMenuOption.CheckBalance} to Check Balance.");
     Console.WriteLine($"Press {(int)ATMMenuOption.Deposit} to depsosite.");
     Console.WriteLine($"Press {(int)ATMMenuOption.Withdraw} to withdraw.");
@@ -30,7 +28,9 @@ while (true)
             switch (selectedOption)
             {
                 case ATMMenuOption.OpenAccount:
-                    Console.WriteLine("Case 1");
+                    Account account = new Account(1000);
+                    ATM.Services.BalanceService.DisplayBalance(account);
+                    Console.ReadKey();
                     break;
                 case ATMMenuOption.CheckBalance:
                     Console.WriteLine("Case 1");
