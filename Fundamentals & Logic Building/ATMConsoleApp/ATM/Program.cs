@@ -11,7 +11,6 @@ using System.Xml.Serialization;
 Account account = null;
 while (true)
 {
-    Console.Clear();
     Console.WriteLine("Pleasse select one of the operation:");
     Console.WriteLine($"Press {(int)ATMMenuOption.OpenAccount} to Open a new account.");
     Console.WriteLine($"Press {(int)ATMMenuOption.CheckBalance} to Check Balance.");
@@ -32,35 +31,41 @@ while (true)
                     if(account != null)
                     {
                         Console.WriteLine("You already have an Account");
-                        ConsoleHelper.Pause();
-
+                       
                     }
                     else
                     {
                         account = new Account(1000);
                         ATM.Services.BalanceService.DisplayBalance(account);
                     }
-                break;
+                    ConsoleHelper.Pause();
+                    break;
 
 
                 case ATMMenuOption.CheckBalance:
                   if(account == null)
                     {
                         Console.WriteLine("You don's have an account yet..");
-                        ConsoleHelper.Pause();
-
                     }
                     else
                     {
                         ATM.Services.BalanceService.DisplayBalance(account);
-                        Console.ReadKey();
                     }
-                break;
+                    ConsoleHelper.Pause();
+                    break;
 
 
                 case ATMMenuOption.Deposit:
-                    Console.WriteLine("Case 2");
-                break;
+                    if (account == null)
+                    {
+                        Console.WriteLine("You don's have an account yet..");
+                    }
+                    else
+                    { 
+                        DepositService.deposit(account);
+                    }
+                    ConsoleHelper.Pause();
+                    break;
 
                 case ATMMenuOption.Withdraw:
                     Console.WriteLine("Case 3");

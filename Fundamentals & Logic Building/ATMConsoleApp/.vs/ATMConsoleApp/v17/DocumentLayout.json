@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\security\\userauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\security\\userauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\services\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\services\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\services\\depositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\services\\depositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\enums\\atmmenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\enums\\atmmenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 698,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,78 +86,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ConsoleHelper.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Helpers\\ConsoleHelper.cs",
               "RelativeDocumentMoniker": "ATM\\Helpers\\ConsoleHelper.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Helpers\\ConsoleHelper.cs",
               "RelativeToolTip": "ATM\\Helpers\\ConsoleHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:27:57.621Z",
+              "WhenOpened": "2025-06-13T05:05:52.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "ATM\\Models\\Account.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Models\\Account.cs",
-              "RelativeToolTip": "ATM\\Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "ATM\\Helpers\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "ATM\\Helpers\\InputHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T06:07:52.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BalanceService.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Services\\BalanceService.cs",
-              "RelativeDocumentMoniker": "ATM\\Services\\BalanceService.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Services\\BalanceService.cs",
-              "RelativeToolTip": "ATM\\Services\\BalanceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T05:50:18.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ATMMenuOptions.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Enums\\ATMMenuOptions.cs",
-              "RelativeDocumentMoniker": "ATM\\Enums\\ATMMenuOptions.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Enums\\ATMMenuOptions.cs",
-              "RelativeToolTip": "ATM\\Enums\\ATMMenuOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:59:42.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserAuthenticator.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Security\\UserAuthenticator.cs",
-              "RelativeDocumentMoniker": "ATM\\Security\\UserAuthenticator.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Security\\UserAuthenticator.cs",
-              "RelativeToolTip": "ATM\\Security\\UserAuthenticator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:23:04.491Z",
+              "WhenOpened": "2025-06-13T04:42:36.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DepositService.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Services\\DepositService.cs",
+              "RelativeDocumentMoniker": "ATM\\Services\\DepositService.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Services\\DepositService.cs",
+              "RelativeToolTip": "ATM\\Services\\DepositService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:38:12.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Program.cs",
               "RelativeDocumentMoniker": "ATM\\Program.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Program.cs",
               "RelativeToolTip": "ATM\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T06:12:07.089Z",
               "EditorCaption": ""

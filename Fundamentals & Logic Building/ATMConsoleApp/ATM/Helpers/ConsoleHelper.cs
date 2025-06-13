@@ -13,6 +13,7 @@ namespace ATM.Helpers
         {
             Console.WriteLine("Press anykey to continue.....");
             Console.ReadKey();
+            Console.Clear();
         }
     }
 }
