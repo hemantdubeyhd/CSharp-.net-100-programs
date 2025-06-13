@@ -28,7 +28,7 @@ while (true)
             switch (selectedOption)
             {
                 case ATMMenuOption.OpenAccount:
-                    if(account != null)
+                    if(AccountExistHelper.IsAccountNotExist(account))
                     {
                         Console.WriteLine("You already have an Account");
                        
