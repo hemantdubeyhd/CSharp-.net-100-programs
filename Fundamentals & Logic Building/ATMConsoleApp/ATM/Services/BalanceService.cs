@@ -1,4 +1,5 @@
 ﻿using ATM.Models;
+using ATM.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +13,8 @@ namespace ATM.Services
         public static void DisplayBalance( Account account, string message = "Your current balance is:")
         {
             Console.WriteLine($"{message} ${account.Balance}");
-            Console.WriteLine("Press anykey to continue.....");
-            Console.ReadKey();
+            ConsoleHelper.Pause();
+           
         }
     }
 }

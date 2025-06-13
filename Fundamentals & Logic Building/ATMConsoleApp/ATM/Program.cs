@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ATM.Enums;
+using ATM.Helpers;
 using ATM.Security;
 using ATM.Services;
 using ATM.Models;
@@ -31,8 +32,7 @@ while (true)
                     if(account != null)
                     {
                         Console.WriteLine("You already have an Account");
-                        Console.WriteLine("Press anykey to continue.....");
-                        Console.ReadKey();
+                        ConsoleHelper.Pause();
 
                     }
                     else
@@ -40,14 +40,14 @@ while (true)
                         account = new Account(1000);
                         ATM.Services.BalanceService.DisplayBalance(account);
                     }
-                   
-                    break;
+                break;
+
+
                 case ATMMenuOption.CheckBalance:
                   if(account == null)
                     {
                         Console.WriteLine("You don's have an account yet..");
-                        Console.WriteLine("Press anykey to continue.....");
-                        Console.ReadKey();
+                        ConsoleHelper.Pause();
 
                     }
                     else
@@ -55,17 +55,22 @@ while (true)
                         ATM.Services.BalanceService.DisplayBalance(account);
                         Console.ReadKey();
                     }
-                    break;
+                break;
+
+
                 case ATMMenuOption.Deposit:
                     Console.WriteLine("Case 2");
-                    break;
+                break;
+
                 case ATMMenuOption.Withdraw:
                     Console.WriteLine("Case 3");
-                    break;
+                break;
+
                 case ATMMenuOption.Exit:
                     Console.WriteLine($"Closing the app and logging off on {DateTime.Now.ToString("dd-MM-yyyy HH:mm:ss")}....Thanks!! ");
                     Environment.Exit(0);
-                    break;
+                break;
+
             }
             
         }
