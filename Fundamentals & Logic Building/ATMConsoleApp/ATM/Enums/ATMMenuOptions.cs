@@ -8,9 +8,10 @@ namespace ATM.Enums
 {
     public enum ATMMenuOption
     {
-        CheckBalance = 1,
-        Deposit = 2,
-        Withdraw = 3,
-        Exit = 4
+       OpenAccount,
+        CheckBalance,
+        Deposit,
+        Withdraw,
+        Exit
     }
 }

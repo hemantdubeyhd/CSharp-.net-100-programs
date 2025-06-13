@@ -9,9 +9,9 @@ namespace ATM.Services
 {
     internal class BalanceService
     {
-        public void DisplayBalance(string statment, Account account)
+        public void DisplayBalance( Account account, string message = "Your current balance is:")
         {
-            Console.WriteLine($"{statment} ${account.Balance}");
+            Console.WriteLine($"{message} ${account.Balance}");
         }
     }
 }

@@ -6,10 +6,10 @@ using ATM.Models;
 using System.Security.Cryptography.X509Certificates;
 using System.Xml.Serialization;
 
-UserAuthenticator userAuthenticator = new UserAuthenticator();
+//UserAuthenticator userAuthenticator = new UserAuthenticator();
 Account account = new Account(1000);
 BalanceService balanceService = new BalanceService();
-balanceService.DisplayBalance("Opening Balance is", account);
+balanceService.DisplayBalance(account, "Opening Balance is");
 Console.ReadKey();
 while (true)
 {
@@ -29,8 +29,11 @@ while (true)
             ATMMenuOption selectedOption = (ATMMenuOption)choice;
             switch (selectedOption)
             {
+                case ATMMenuOption.OpenAccount:
+                    Console.WriteLine("Case 1");
+                    break;
                 case ATMMenuOption.CheckBalance:
-                    Console.WriteLine();
+                    Console.WriteLine("Case 1");
                     break;
                 case ATMMenuOption.Deposit:
                     Console.WriteLine("Case 2");
