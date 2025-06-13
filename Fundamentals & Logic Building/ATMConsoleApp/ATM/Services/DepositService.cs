@@ -10,7 +10,7 @@ namespace ATM.Services
 {
     internal class DepositService
     {
-        public static void deposit(Account account)
+        public static void Deposit(Account account)
         {
             BalanceService.DisplayBalance(account);
             decimal amount = InputHelper.ValidateTheInput("Please enter the amount you want to deposit");

@@ -28,7 +28,7 @@ while (true)
             switch (selectedOption)
             {
                 case ATMMenuOption.OpenAccount:
-                    if(AccountExistHelper.IsAccountNotExist(account))
+                    if(account != null)
                     {
                         Console.WriteLine("You already have an Account");
                        
@@ -62,7 +62,7 @@ while (true)
                     }
                     else
                     { 
-                        DepositService.deposit(account);
+                        DepositService.Deposit(account);
                     }
                     ConsoleHelper.Pause();
                     break;
@@ -97,7 +97,7 @@ while (true)
     }
     else
     {
-        Console.WriteLine("Please eneter a valid choice!!!");
+        Console.WriteLine("Please eneter a valid value!!!");
         Console.ReadKey();
     }
 
