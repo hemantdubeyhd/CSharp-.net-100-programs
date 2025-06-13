@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\services\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\services\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\services\\depositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\services\\depositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +34,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -38,15 +42,31 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1044750755:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -58,35 +78,28 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "BalanceService.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Services\\BalanceService.cs",
+              "RelativeDocumentMoniker": "ATM\\Services\\BalanceService.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Services\\BalanceService.cs",
+              "RelativeToolTip": "ATM\\Services\\BalanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:10:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ConsoleHelper.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Helpers\\ConsoleHelper.cs",
               "RelativeDocumentMoniker": "ATM\\Helpers\\ConsoleHelper.cs",
@@ -99,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "InputHelper.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Helpers\\InputHelper.cs",
               "RelativeDocumentMoniker": "ATM\\Helpers\\InputHelper.cs",
@@ -112,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DepositService.cs",
               "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Services\\DepositService.cs",
               "RelativeDocumentMoniker": "ATM\\Services\\DepositService.cs",
@@ -131,7 +144,7 @@
               "RelativeDocumentMoniker": "ATM\\Program.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Program.cs",
               "RelativeToolTip": "ATM\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAUAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T06:12:07.089Z",
               "EditorCaption": ""
@@ -142,14 +155,6 @@
           "DockedWidth": 651,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -165,25 +170,9 @@
           ]
         },
         {
-          "DockedWidth": 171,
+          "DockedWidth": 436,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -195,7 +184,7 @@
           ]
         },
         {
-          "DockedWidth": 436,
+          "DockedWidth": 227,
           "SelectedChildIndex": -1,
           "Children": [
             {
