@@ -1,11 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ATM.Enums;
 using ATM.Security;
+using ATM.Services;
+using ATM.Models;
 using System.Security.Cryptography.X509Certificates;
 using System.Xml.Serialization;
 
 UserAuthenticator userAuthenticator = new UserAuthenticator();
-
+Account account = new Account(1000);
+BalanceService balanceService = new BalanceService();
+balanceService.DisplayBalance("Opening Balance is", account);
+Console.ReadKey();
 while (true)
 {
     Console.Clear();
