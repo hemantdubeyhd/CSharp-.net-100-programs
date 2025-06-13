@@ -68,8 +68,16 @@ while (true)
                     break;
 
                 case ATMMenuOption.Withdraw:
-                    Console.WriteLine("Case 3");
-                break;
+                    if (account == null)
+                    {
+                        Console.WriteLine("You don's have an account yet..");
+                    }
+                    else
+                    {
+                        WithdrawalService.Withdrawal(account);
+                    }
+                    ConsoleHelper.Pause();
+                    break;
 
                 case ATMMenuOption.Exit:
                     Console.WriteLine($"Closing the app and logging off on {DateTime.Now.ToString("dd-MM-yyyy HH:mm:ss")}....Thanks!! ");
