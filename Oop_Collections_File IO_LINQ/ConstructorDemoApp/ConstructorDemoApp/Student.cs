@@ -23,9 +23,9 @@ namespace ConstructorDemoApp
             _firstName = name;
         }
 
-        public void displayStudentInfo(Student student)
+        public void displayInfo()
         {
-            Console.WriteLine($"Student id: {student._id}, Name: {student._firstName}");
+            Console.WriteLine($"Student id: {_id}, Name: {_firstName}");
         }
     }
 }
