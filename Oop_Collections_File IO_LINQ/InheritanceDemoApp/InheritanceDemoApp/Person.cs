@@ -30,10 +30,14 @@ namespace InheritanceDemoApp
             {
                 if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException("Name cannot be empty oe ehitespace.");
+                    throw new ArgumentException("Name cannot be empty or whitespace.");
                 }
                 _name= value;
             }
+        }
+        public virtual void DisplayInfo()
+        {
+            Console.WriteLine($"Id: {_id}, Name: {_name}");
         }
     }
 }
