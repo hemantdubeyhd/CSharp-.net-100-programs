@@ -9,6 +9,7 @@ namespace InheritanceDemoApp
     internal class Person
     {
         private int _id;
+        private string _name;
         public int Id 
         {
             
@@ -19,8 +20,20 @@ namespace InheritanceDemoApp
                 {
                     throw new ArgumentException("Id must be greater than 0");
                 }
+                _id= value;
             }
         }
-        public string name { get; set; }
+        public string name 
+        { 
+            get => _name;
+            set 
+            {
+                if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("Name cannot be empty oe ehitespace.");
+                }
+                _name= value;
+            }
+        }
     }
 }
