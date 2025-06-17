@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\",
+  "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\ConstructorDemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\fundamentals \u0026 logic building\\atmconsoleapp\\atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF244AC-4567-4F10-B800-F1400F935CF1}|ATM\\ATM.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7337172F-CDDB-4529-9D38-177DD8025A31}|ConstructorDemoApp\\ConstructorDemoApp.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\oop_collections_file io_linq\\constructordemoapp\\constructordemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7337172F-CDDB-4529-9D38-177DD8025A31}|ConstructorDemoApp\\ConstructorDemoApp.csproj|solutionrelative:constructordemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7337172F-CDDB-4529-9D38-177DD8025A31}|ConstructorDemoApp\\ConstructorDemoApp.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\oop_collections_file io_linq\\constructordemoapp\\constructordemoapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7337172F-CDDB-4529-9D38-177DD8025A31}|ConstructorDemoApp\\ConstructorDemoApp.csproj|solutionrelative:constructordemoapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 698,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,15 +78,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\ConstructorDemoApp\\ConstructorDemoApp\\Student.cs",
+              "RelativeDocumentMoniker": "ConstructorDemoApp\\Student.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\ConstructorDemoApp\\ConstructorDemoApp\\Student.cs",
+              "RelativeToolTip": "ConstructorDemoApp\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:42:22.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Program.cs",
-              "RelativeDocumentMoniker": "ATM\\Program.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Fundamentals \u0026 Logic Building\\ATMConsoleApp\\ATM\\Program.cs",
-              "RelativeToolTip": "ATM\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\ConstructorDemoApp\\ConstructorDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorDemoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\ConstructorDemoApp\\ConstructorDemoApp\\Program.cs",
+              "RelativeToolTip": "ConstructorDemoApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T06:47:52.291Z",
+              "WhenOpened": "2025-06-17T00:26:06.419Z",
               "EditorCaption": ""
             }
           ]
