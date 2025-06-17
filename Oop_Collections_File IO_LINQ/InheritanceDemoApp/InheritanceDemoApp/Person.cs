@@ -23,7 +23,7 @@ namespace InheritanceDemoApp
                 _id= value;
             }
         }
-        public string name 
+        public string Name 
         { 
             get => _name;
             set 

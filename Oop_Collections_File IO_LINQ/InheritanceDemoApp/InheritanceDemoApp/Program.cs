@@ -3,7 +3,7 @@ using InheritanceDemoApp;
 
 Student student  = new Student();
 student.Id = 1;
-student.name = "Qays";
+student.Name = "Qays";
 student.Course = "CS";
 
 student.DisplayInfo();
