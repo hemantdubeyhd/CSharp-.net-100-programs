@@ -9,6 +9,14 @@ Console.ReadKey();
 
 
 //Parameterised Constuctor
-Student student2 = new Student(1, "Qays");
-student2.displayInfo();
+try
+{
+    Student student2 = new Student(1, "Qays");
+    student2.displayInfo();
+
+}
+catch(Exception ex)
+{
+    Console.WriteLine($"Error creating student: {ex.Message}"); 
+}
 Console.ReadKey();

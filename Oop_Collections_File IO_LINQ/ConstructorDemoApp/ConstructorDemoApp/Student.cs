@@ -19,6 +19,14 @@ namespace ConstructorDemoApp
         }
         public Student(int id, string name)
         {
+            if (id <= 0)
+            {
+                throw new ArgumentException("Student Id must  be greater than 0");
+            }
+            if (string.IsNullOrEmpty(name) || string.IsNullOrWhiteSpace(name))
+            {
+                throw new ArgumentException(nameof(name), "Name cannot be empty or whitespace.");
+            }
             _id = id;
             _firstName = name;
         }
