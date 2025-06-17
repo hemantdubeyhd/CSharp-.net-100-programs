@@ -21,7 +21,7 @@ namespace ConstructorDemoApp
         {
             if (id <= 0)
             {
-                throw new ArgumentException("Student Id must  be greater than 0");
+                throw new ArgumentException("Student Id must  be greater than 0", nameof(id));
             }
             if (string.IsNullOrEmpty(name) || string.IsNullOrWhiteSpace(name))
             {
