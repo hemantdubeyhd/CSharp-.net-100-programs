@@ -11,7 +11,7 @@ Console.ReadKey();
 //Parameterised Constuctor
 try
 {
-    Student student2 = new Student(1, "Qays");
+    Student student2 = new Student(1, "");
     student2.displayInfo();
 
 }

@@ -25,7 +25,7 @@ namespace ConstructorDemoApp
             }
             if (string.IsNullOrEmpty(name) || string.IsNullOrWhiteSpace(name))
             {
-                throw new ArgumentException(nameof(name), "Name cannot be empty or whitespace.");
+                throw new ArgumentException("Name cannot be empty or whitespace.", nameof(name));
             }
             _id = id;
             _firstName = name;
