@@ -43,8 +43,7 @@
               "ViewState": "AQIAABMAAAAAAAAAAAAQwC0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:48:07.362Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -57,8 +56,7 @@
               "ViewState": "AQIAAAwAAAAAAAAAAAA1wCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T03:17:34.693Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -71,8 +69,7 @@
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T03:19:56.265Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -140,8 +137,7 @@
               "RelativeToolTip": "PolymorphismDemoAPp\\Student.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T05:48:08.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T05:48:08.636Z"
             },
             {
               "$type": "Document",
@@ -151,7 +147,7 @@
               "RelativeDocumentMoniker": "PolymorphismDemoAPp\\Program.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Program.cs",
               "RelativeToolTip": "PolymorphismDemoAPp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:48:08.003Z",
               "EditorCaption": ""
