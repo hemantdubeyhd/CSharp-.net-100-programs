@@ -30,6 +30,7 @@ namespace PolymorphismDemoApp
 
         public override void  DipslayInfo()
         {
+            base.DipslayInfo();
             Console.WriteLine($"Course: {_course}");
         }
     }

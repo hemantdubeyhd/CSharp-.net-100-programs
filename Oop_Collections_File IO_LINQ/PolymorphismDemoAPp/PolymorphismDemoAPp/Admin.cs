@@ -28,6 +28,7 @@ namespace PolymorphismDemoApp
         }
         public override void DipslayInfo()
         {
+            base.DipslayInfo();
             Console.WriteLine($"Department: {_department}");
         }
     }
