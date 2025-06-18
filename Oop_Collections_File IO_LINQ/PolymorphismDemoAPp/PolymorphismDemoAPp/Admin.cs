@@ -3,19 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 
 namespace PolymorphismDemoApp
 {
-    internal class Student : Person
+    internal class Admin
     {
-        private string _course;
+        private string _department;
 
-        public string Course
+        public string Department
         {
             get
             {
-                return _course;
+                return _department;
             }
 
             set
@@ -24,7 +23,7 @@ namespace PolymorphismDemoApp
                 {
                     throw new ArgumentException("Name cannot be null, empty or whotespaces!!");
                 }
-                _course = value;
+                _department = value;
             }
         }
     }

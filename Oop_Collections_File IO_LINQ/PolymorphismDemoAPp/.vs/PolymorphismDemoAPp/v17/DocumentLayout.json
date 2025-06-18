@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoAPp\\PolymorphismDemoAPp.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\oop_collections_file io_linq\\polymorphismdemoapp\\polymorphismdemoapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoAPp\\PolymorphismDemoAPp.csproj|solutionrelative:polymorphismdemoapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoApp\\PolymorphismDemoApp.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\oop_collections_file io_linq\\polymorphismdemoapp\\polymorphismdemoapp\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoApp\\PolymorphismDemoApp.csproj|solutionrelative:polymorphismdemoapp\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoAPp\\PolymorphismDemoAPp.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\oop_collections_file io_linq\\polymorphismdemoapp\\polymorphismdemoapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoAPp\\PolymorphismDemoAPp.csproj|solutionrelative:polymorphismdemoapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoAPp\\PolymorphismDemoAPp.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\oop_collections_file io_linq\\polymorphismdemoapp\\polymorphismdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoAPp\\PolymorphismDemoAPp.csproj|solutionrelative:polymorphismdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoApp\\PolymorphismDemoApp.csproj|c:\\users\\hemant.dubey\\onedrive - sra information technology pty ltd\\desktop\\csharp-.net-100-programs\\oop_collections_file io_linq\\polymorphismdemoapp\\polymorphismdemoapp\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8F9AC-8D62-48EF-9D98-E28D65CE432D}|PolymorphismDemoApp\\PolymorphismDemoApp.csproj|solutionrelative:polymorphismdemoapp\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,40 +79,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Student.cs",
-              "RelativeDocumentMoniker": "PolymorphismDemoAPp\\Student.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Student.cs",
-              "RelativeToolTip": "PolymorphismDemoAPp\\Student.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAXAAAA",
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Admin.cs",
+              "RelativeDocumentMoniker": "PolymorphismDemoAPp\\Admin.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Admin.cs",
+              "RelativeToolTip": "PolymorphismDemoAPp\\Admin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:58:57.225Z",
+              "WhenOpened": "2025-06-18T03:19:56.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Person.cs",
-              "RelativeDocumentMoniker": "PolymorphismDemoAPp\\Person.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Person.cs",
-              "RelativeToolTip": "PolymorphismDemoAPp\\Person.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAYwCkAAAAeAAAA",
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Teacher.cs",
+              "RelativeDocumentMoniker": "PolymorphismDemoAPp\\Teacher.cs",
+              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Teacher.cs",
+              "RelativeToolTip": "PolymorphismDemoAPp\\Teacher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:36:34.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Program.cs",
-              "RelativeDocumentMoniker": "PolymorphismDemoAPp\\Program.cs",
-              "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Program.cs",
-              "RelativeToolTip": "PolymorphismDemoAPp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:27:47.063Z",
+              "WhenOpened": "2025-06-18T03:17:34.693Z",
               "EditorCaption": ""
             }
           ]
