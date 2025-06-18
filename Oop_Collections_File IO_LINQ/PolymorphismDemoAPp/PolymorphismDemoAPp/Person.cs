@@ -9,8 +9,8 @@ namespace PolymorphismDemoApp
 {
     internal class Person
     {
-        private int _id;
-        private string _name;
+        private int _id = 0;
+        private string _name = "Unknown";
 
         public int Id { 
             get 
@@ -43,7 +43,7 @@ namespace PolymorphismDemoApp
             }
         }
 
-        public virtual void DipslyInfo()
+        public virtual void DipslayInfo()
         {
             Console.WriteLine($"ID: {_id}");
             Console.WriteLine($"Name: {_name}");

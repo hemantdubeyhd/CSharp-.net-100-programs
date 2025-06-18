@@ -26,7 +26,7 @@ namespace PolymorphismDemoApp
                 _department = value;
             }
         }
-        public override void DipslyInfo()
+        public override void DipslayInfo()
         {
             Console.WriteLine($"Department: {_department}");
         }

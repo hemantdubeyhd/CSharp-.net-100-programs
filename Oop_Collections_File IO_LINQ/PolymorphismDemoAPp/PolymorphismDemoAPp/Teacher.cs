@@ -27,7 +27,7 @@ namespace PolymorphismDemoApp
             }
         }
 
-        public override void DipslyInfo()
+        public override void DipslayInfo()
         {
             Console.WriteLine($"Subject: {_subject}");
         }

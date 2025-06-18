@@ -28,9 +28,9 @@ namespace PolymorphismDemoApp
             }
         }
 
-        public override void  DipslyInfo()
+        public override void  DipslayInfo()
         {
-            Console.WriteLine($"Course{_course}");
+            Console.WriteLine($"Course: {_course}");
         }
     }
 }
