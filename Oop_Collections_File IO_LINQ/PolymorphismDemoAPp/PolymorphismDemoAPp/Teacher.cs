@@ -26,6 +26,11 @@ namespace PolymorphismDemoApp
                 _subject = value;
             }
         }
+
+        public override void DipslyInfo()
+        {
+            Console.WriteLine($"Subject: {_subject}");
+        }
     }
 }
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolymorphismDemoApp
 {
-    internal class Admin
+    internal class Admin : Person
     {
         private string _department;
 
@@ -25,6 +25,10 @@ namespace PolymorphismDemoApp
                 }
                 _department = value;
             }
+        }
+        public override void DipslyInfo()
+        {
+            Console.WriteLine($"Department: {_department}");
         }
     }
 }

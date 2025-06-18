@@ -27,5 +27,10 @@ namespace PolymorphismDemoApp
                 _course = value;
             }
         }
+
+        public override void  DipslyInfo()
+        {
+            Console.WriteLine($"Course{_course}");
+        }
     }
 }

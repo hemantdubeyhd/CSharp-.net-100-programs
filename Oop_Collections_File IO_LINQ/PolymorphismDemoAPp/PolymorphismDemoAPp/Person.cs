@@ -43,5 +43,12 @@ namespace PolymorphismDemoApp
             }
         }
 
+        public virtual void DipslyInfo()
+        {
+            Console.WriteLine($"ID: {_id}");
+            Console.WriteLine($"Name: {_name}");
+
+        }
+
     }
 }
