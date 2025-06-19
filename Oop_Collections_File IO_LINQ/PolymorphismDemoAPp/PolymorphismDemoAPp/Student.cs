@@ -10,7 +10,7 @@ namespace PolymorphismDemoApp
     internal class Student : Person
     {
         private string _course;
-        public List<SubjectScore> scores { get; set; }
+        public List<SubjectScore> scores = new List<SubjectScore>();
         
         public string Course
         {
