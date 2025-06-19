@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PolymorphismDemoApp
+namespace PolymorphismDemoApp.Models
 {
-    internal class Admin : Person
+    internal class Teacher : Person
     {
-        private string _department;
+        private string _subject;
 
-        public string Department
+        public string Subject
         {
             get
             {
-                return _department;
+                return _subject;
             }
 
             set
@@ -23,13 +23,15 @@ namespace PolymorphismDemoApp
                 {
                     throw new ArgumentException("Name cannot be null, empty or whotespaces!!");
                 }
-                _department = value;
+                _subject = value;
             }
         }
+
         public override void DipslayInfo()
         {
             base.DipslayInfo();
-            Console.WriteLine($"Department: {_department}");
+            Console.WriteLine($"Subject: {_subject}");
         }
     }
 }
+

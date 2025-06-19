@@ -5,35 +5,36 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PolymorphismDemoApp
+namespace PolymorphismDemoApp.Models
 {
     internal class Person
     {
         private int _id = 0;
         private string _name = "Unknown";
 
-        public int Id { 
-            get 
-            { 
-                return _id; 
-            } 
-            set 
-            { 
-                if(value <= 0)
+        public int Id
+        {
+            get
+            {
+                return _id;
+            }
+            set
+            {
+                if (value <= 0)
                 {
                     throw new ArgumentException("Id must be grater than 0");
                 }
                 _id = value;
-            } 
+            }
         }
 
         public string Name
         {
             get
-            { 
-                return _name; 
+            {
+                return _name;
             }
-            set 
+            set
             {
                 if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))
                 {

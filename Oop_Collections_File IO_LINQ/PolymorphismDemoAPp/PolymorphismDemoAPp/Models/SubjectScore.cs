@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PolymorphismDemoApp
+namespace PolymorphismDemoApp.Models
 {
     internal class SubjectScore
     {

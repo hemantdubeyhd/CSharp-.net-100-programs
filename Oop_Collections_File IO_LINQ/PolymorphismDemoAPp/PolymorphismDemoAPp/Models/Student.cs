@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace PolymorphismDemoApp
+namespace PolymorphismDemoApp.Models
 {
     internal class Student : Person
     {
         private string _course;
         public List<SubjectScore> scores = new List<SubjectScore>();
-        
+
         public string Course
         {
             get
@@ -29,7 +29,7 @@ namespace PolymorphismDemoApp
             }
         }
 
-        public override void  DipslayInfo()
+        public override void DipslayInfo()
         {
             base.DipslayInfo();
             Console.WriteLine($"Course: {_course}");
