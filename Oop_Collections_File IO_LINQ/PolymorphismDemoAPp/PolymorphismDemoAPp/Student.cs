@@ -33,6 +33,15 @@ namespace PolymorphismDemoApp
         {
             base.DipslayInfo();
             Console.WriteLine($"Course: {_course}");
+
+            if (scores != null && scores.Count > 0)
+            {
+                foreach (SubjectScore score in scores)
+                {
+                    Console.WriteLine(score.SubjectName);
+                    Console.WriteLine(score.Score);
+                }
+            }
         }
     }
 }

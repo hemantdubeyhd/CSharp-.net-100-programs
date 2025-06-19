@@ -16,13 +16,13 @@ foreach (Person person in persons)
 {
     person.DipslayInfo();
 
-    if(person is Student student1)
-    {
-       foreach(SubjectScore score in student1.scores)
-        {
-            Console.WriteLine(score.SubjectName);
-            Console.WriteLine(score.Score);
-        }
-    }
+    //if(person is Student student1)
+    //{
+    //   foreach(SubjectScore score in student1.scores)
+    //    {
+    //        Console.WriteLine(score.SubjectName);
+    //        Console.WriteLine(score.Score);
+    //    }
+    //}
 }
 Console.ReadKey();
