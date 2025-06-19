@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using PolymorphismDemoApp;
 using PolymorphismDemoApp.Models;
 
 List<Person> persons = new List<Person>();
