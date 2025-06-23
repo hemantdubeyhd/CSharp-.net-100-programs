@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PolymorphismDemoApp.Manager
 {
-    internal class PersonRespository
+    internal class PersonRepository
     {
 
         public Student CreateEmptyStudent() { return new Student(); }
