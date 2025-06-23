@@ -9,11 +9,20 @@ namespace PolymorphismDemoApp.Manager
 {
     internal class PersonRespository
     {
-        public Person person = new Person();
-        public Student student = new Student();
-        public Teacher teacher = new Teacher();
-        public Admin admin = new Admin();
 
+        public Student CreateEmptyStudent()
+        { 
+            return new Student();
+        }
+        public List<Person> GrtALlPeople()
+        {
+            List<Person> persons = new List<Person>
+            {
+                new Person(),new Student(), new Teacher(), new Admin()
+            };
+            return persons;
+        }
 
+       
     }
 }
