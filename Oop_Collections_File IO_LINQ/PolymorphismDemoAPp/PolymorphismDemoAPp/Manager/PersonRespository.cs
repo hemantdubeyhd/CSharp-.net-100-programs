@@ -10,11 +10,10 @@ namespace PolymorphismDemoApp.Manager
     internal class PersonRespository
     {
 
-        public Student CreateEmptyStudent()
-        { 
-            return new Student();
-        }
-        public List<Person> GrtALlPeople()
+        public Student CreateEmptyStudent() { return new Student(); }
+        public Teacher CreateEmptyTeacher() { return new Teacher(); }
+        public Admin CreateEmptyAdmin() { return new Admin(); }
+        public List<Person> GrtAllPeople()
         {
             List<Person> persons = new List<Person>
             {

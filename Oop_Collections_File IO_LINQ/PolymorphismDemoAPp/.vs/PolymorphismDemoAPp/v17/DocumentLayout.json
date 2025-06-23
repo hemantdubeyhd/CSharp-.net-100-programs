@@ -51,8 +51,7 @@
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:48:07.362Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -144,7 +143,7 @@
               "RelativeDocumentMoniker": "PolymorphismDemoAPp\\Manager\\PersonRespository.cs",
               "ToolTip": "C:\\Users\\hemant.dubey\\OneDrive - SRA Information Technology PTY LTD\\Desktop\\CSharp-.net-100-programs\\Oop_Collections_File IO_LINQ\\PolymorphismDemoAPp\\PolymorphismDemoAPp\\Manager\\PersonRespository.cs",
               "RelativeToolTip": "PolymorphismDemoAPp\\Manager\\PersonRespository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T05:44:01.394Z",
               "EditorCaption": ""
@@ -159,8 +158,7 @@
               "RelativeToolTip": "PolymorphismDemoAPp\\Models\\SubjectScore.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T00:23:46.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T00:23:46.251Z"
             },
             {
               "$type": "Document",
@@ -172,8 +170,7 @@
               "RelativeToolTip": "PolymorphismDemoAPp\\Models\\Student.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T05:48:08.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T05:48:08.636Z"
             },
             {
               "$type": "Document",
@@ -185,8 +182,7 @@
               "RelativeToolTip": "PolymorphismDemoAPp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T05:48:08.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T05:48:08.003Z"
             }
           ]
         },
