@@ -31,4 +31,3 @@ using PolymorphismDemoApp.Models;
 
 PersonRepository personRepo = new PersonRepository();
 List<Person> people = personRepo.GetAllPeople();
-Console.ReadKey();
