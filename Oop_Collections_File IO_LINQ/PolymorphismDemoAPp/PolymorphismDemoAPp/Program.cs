@@ -26,8 +26,22 @@
 
 //***after refactoring the code code:
 
+using PolymorphismDemoApp.Helpers;
 using PolymorphismDemoApp.Manager;
 using PolymorphismDemoApp.Models;
 
 PersonRepository personRepo = new PersonRepository();
+InputHelper inputHelper = new InputHelper();
+
 List<Person> people = personRepo.GetAllPeople();
+foreach (Person person in people)
+{
+    inputHelper.FillData(person);
+}
+
+foreach(Person person in people)
+{
+    person.DipslayInfo();
+}
+
+Console.ReadKey();
