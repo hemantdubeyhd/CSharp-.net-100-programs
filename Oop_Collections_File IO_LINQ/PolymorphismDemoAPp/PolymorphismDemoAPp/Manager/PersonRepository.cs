@@ -13,7 +13,7 @@ namespace PolymorphismDemoApp.Manager
         public Student CreateEmptyStudent() { return new Student(); }
         public Teacher CreateEmptyTeacher() { return new Teacher(); }
         public Admin CreateEmptyAdmin() { return new Admin(); }
-        public List<Person> GrtAllPeople()
+        public List<Person> GetAllPeople()
         {
             List<Person> persons = new List<Person>
             {
